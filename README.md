@@ -37,7 +37,7 @@
 
  >Karthik Rangappa heads educational initiatives at Zerodha and has more than a decade of research experience in financial markets. He travels widely conducting educational programmes.
 
- - Module 1 - [Introduction to Stock Markets](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%201_Introduction%20to%20Stock%20Markets.pdf)
+ - Module 1 - [Introduction to Stock Markets](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%201_Introduction%20to%20Stock%20Markets.pdf) | Investing ensures financial security, and the Stock market plays a pivotal role in this domain, it is a place where people buy/sell shares of publicly listed companies. In this module, you will learn about the fundamentals of the stock market, how to get started, how it functions and the various intermediaries that appertain it.
  - Module 2 - [Technical Analysis](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%202_Technical%20Analysis.pdf)
  - Module 3 - [Fundamental Analysis](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%203_Fundamental%20Analysis.pdf)
  - Module 4 - [Futures Trading](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%204_Futures%20Trading.pdf)
