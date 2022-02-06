@@ -72,6 +72,7 @@
  >_Presentation by Vishal Bhojani_
 
  - **Financial Management 1 - [Indian Financial System, Institutions & Markets](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Financial%20Management_1%20Indian%20Financial%20System%2C%20Institutions%20%26%20Markets.pdf)**
+ - **Financial Management 2 - [Foreign Portfolio Investment](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Financial%20Management_2%20Foreign%20Portfolio%20Investment.pdf)**
 
 
 
