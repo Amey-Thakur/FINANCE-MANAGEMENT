@@ -1,5 +1,5 @@
 # FINANCE-MANAGEMENT
- FM [SEMESTER VIII]
+ ILO8022: FM [SEMESTER VIII]
 
 ## Ebooks by Ankur Warikoo
 
@@ -11,7 +11,6 @@
  - **[My Failure Resume](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Ebooks%20by%20Ankur%20Warikoo/My%20Failure%20Resume.pdf)**
  - **[Thread on Leadership](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Ebooks%20by%20Ankur%20Warikoo/Thread%20on%20Leadership.pdf)**
  - **[Thread on Managing Time by Ankur Warikoo](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Ebooks%20by%20Ankur%20Warikoo/Thread%20on%20Managing%20Time%20by%20Ankur%20Warikoo.pdf)**
-
 
 ## The Rupee Tales - Finance for Kids 
 
@@ -66,15 +65,12 @@
 
  - **Module 11 - [Personal Finance](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%2011_Personal%20Finance.pdf) | _30 Chapters_ |** Personal finance is an essential aspect of your financial life as it helps you achieve your short term and long term financial goals. This module encompasses the various aspects of personal finance such as retirement planning, Mutual funds, ETFs, Bonds, and goal-oriented investments.
 
-
 ## Magic Institute of Excellence (MIE)
 
  >_Presentation by Vishal Bhojani_
 
  - **Financial Management 1 - [Indian Financial System, Institutions & Markets](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Financial%20Management_1%20Indian%20Financial%20System%2C%20Institutions%20%26%20Markets.pdf)**
  - **Financial Management 2 - [Foreign Portfolio Investment](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Financial%20Management_2%20Foreign%20Portfolio%20Investment.pdf)**
-
-
-
-
-
+ - **Module 3 - [Equity](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Module_3%20Equity%20D.pdf)**
+ - **Module 4 - [Dividends](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Module_4%20Dividends.pdf)**
+  
