@@ -1,6 +1,13 @@
 # FINANCE-MANAGEMENT
  ILO8022: FM [SEMESTER VIII]
 
+---
+ 
+ - [X] **[Syllabus](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MU%20SEM%20VIII%20SYLLABUS.pdf)**
+ - [X] **FM - [Reference Books](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/tree/main/Reference%20Books)**
+
+---
+
 ## Ebooks by Ankur Warikoo
 
  >[![image](https://user-images.githubusercontent.com/54937357/150667715-5ca876b3-a682-439b-9e20-111ff5264217.png)](https://ankurwarikoo.com)
