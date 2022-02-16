@@ -8,6 +8,17 @@
 
 ---
 
+## MEGA NOTES
+ >**[MEGA SATISH](https://github.com/msatmod) - AUTHOR**
+ - [Stocks Basic](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/1.%20Stocks%20Basic%20-%20FINANCE%20MANAGEMENT.pdf)
+ - [Technical Analysis](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/2.%20Technical%20Analysis%20-%20FINANCE%20MANAGEMENT.pdf)
+ - [Future Trading](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/3.%20Future%20Trading%20-%20FINANCE%20MANAGEMENT.pdf)
+ - [Options Theory for Professional Trading and Options Strategies](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/4.%20Options%20Theory%20for%20Professional%20Trading%20and%20Options%20Strategies%20-%20FINANCE%20MANAGEMENT.pdf)
+ - [Market & Taxation](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/5.%20Market%20%26%20Taxation%20-%20FINANCE%20MANAGEMENT.pdf)
+ - [Risk Management and Trading Psychology](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/6.%20Risk%20Management%20and%20Trading%20Psychology%20-%20FINANCE%20MANAGEMENT.pdf)
+ - [Personal Finance](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/7.%20Personal%20Finance%20-%20FINANCE%20MANAGEMENT.pdf)
+ - [Fundamental Analysis](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/8.%20Fundamental%20Analysis%20-%20FINANCE%20MANAGEMENT.pdf)
+
 ## Ebooks by Ankur Warikoo
 
  >[![image](https://user-images.githubusercontent.com/54937357/150667715-5ca876b3-a682-439b-9e20-111ff5264217.png)](https://ankurwarikoo.com)
@@ -38,7 +49,6 @@
  - **Book 4 - [One And A Half Stories](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/The%20Rupee%20Tales%20(Finance%20for%20Kids)%20-%20Karthik%20Rangappa%20Illustrations%20by%20Tarun%20Andrews/Book%204_One%20And%20A%20Half%20Stories.pdf)** | While Janki reads her daughter Tara a bedtime story, Tara learns about insurance and wonders if she can insure her favourite toys forever.
  
  - **Book 5 - [The Cake Shop](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/The%20Rupee%20Tales%20(Finance%20for%20Kids)%20-%20Karthik%20Rangappa%20Illustrations%20by%20Tarun%20Andrews/Book%205_The%20Cake%20Shop.pdf)** | Vidya has a tough task as she has to explain the stock markets to her 8-year-old angry son.
-
 
 ## Zerodha Varsity - Karthik Rangappa
 
