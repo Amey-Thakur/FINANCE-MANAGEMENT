@@ -10,13 +10,21 @@
 
 ## MEGA NOTES
  >**[MEGA SATISH](https://github.com/msatmod) - AUTHOR**
+ 
  - [Stocks Basic](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/1.%20Stocks%20Basic%20-%20FINANCE%20MANAGEMENT.pdf)
+ 
  - [Technical Analysis](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/2.%20Technical%20Analysis%20-%20FINANCE%20MANAGEMENT.pdf)
+ 
  - [Future Trading](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/3.%20Future%20Trading%20-%20FINANCE%20MANAGEMENT.pdf)
+ 
  - [Options Theory for Professional Trading and Options Strategies](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/4.%20Options%20Theory%20for%20Professional%20Trading%20and%20Options%20Strategies%20-%20FINANCE%20MANAGEMENT.pdf)
+ 
  - [Market & Taxation](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/5.%20Market%20%26%20Taxation%20-%20FINANCE%20MANAGEMENT.pdf)
+ 
  - [Risk Management and Trading Psychology](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/6.%20Risk%20Management%20and%20Trading%20Psychology%20-%20FINANCE%20MANAGEMENT.pdf)
+ 
  - [Personal Finance](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/7.%20Personal%20Finance%20-%20FINANCE%20MANAGEMENT.pdf)
+ 
  - [Fundamental Analysis](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/8.%20Fundamental%20Analysis%20-%20FINANCE%20MANAGEMENT.pdf)
 
 ## Ebooks by Ankur Warikoo
