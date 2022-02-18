@@ -101,4 +101,6 @@
  - **Module 3 - [Equity](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Module_3%20Equity%20D.pdf)**
  
  - **Module 4 - [Dividends](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Module_4%20Dividends.pdf)**
+ 
+ - **Module 5 - [Corporate Finance](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Module_5%20Corporate%20Finance.pdf)** 
   
