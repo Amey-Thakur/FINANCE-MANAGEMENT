@@ -28,6 +28,10 @@
  - [Personal Finance](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/7.%20Personal%20Finance%20-%20FINANCE%20MANAGEMENT.pdf)
  
  - [Fundamental Analysis](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/8.%20Fundamental%20Analysis%20-%20FINANCE%20MANAGEMENT.pdf)
+ 
+ - [Dividend and Investment Banking](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/9.%20Dividend%20and%20Investment%20Banking%20-%20FINANCE%20MANAGEMENT.pdf)
+
+ - [Cryptocurrency](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/10.%20Cryptocurrency%20-%20FINANCE%20MANAGEMENT.pdf)
 
 
 ## Ebooks by Ankur Warikoo
