@@ -108,3 +108,11 @@
  
  - **Module 5 - [Corporate Finance](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Module_5%20Corporate%20Finance.pdf)** 
 
+
+## IAT - 1
+
+ - [Question Paper](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-1/FM%20IAT-1%20Question%20Paper.pdf) - IAT-1
+ 
+ - [Module 1 & 6](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-1/Finance_Management.pdf)
+ 
+ - [Module 2](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-1/FM_Module-2.pdf)
