@@ -10,7 +10,6 @@
 ---
 
 ## THE WALL
->**[MEGA SATISH](https://github.com/msatmod) - AUTHOR**
  
  - FM [Module - 1](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/THE%20WALL/FM_Module-1.pdf)
  
