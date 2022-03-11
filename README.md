@@ -17,6 +17,8 @@
  
  - FM [Module - 2](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/THE%20WALL/FM_Module-2.pdf)
  
+ - FM [Module - 4](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/THE%20WALL/FM_Module-4.pdf)
+ 
  - FM [Module - 6](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/THE%20WALL/FM_Module-6.pdf)
 
 
