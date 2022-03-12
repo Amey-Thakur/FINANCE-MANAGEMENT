@@ -111,15 +111,23 @@
 
  >**_Presentation by Vishal Bhojani_**
 
- - **Financial Management 1 - [Indian Financial System, Institutions & Markets](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Financial%20Management_1%20Indian%20Financial%20System%2C%20Institutions%20%26%20Markets.pdf)**
+ - **[Indian Financial System, Institutions & Markets](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Indian%20Financial%20System%2C%20Institutions%20%26%20Markets.pdf)**
  
- - **Financial Management 2 - [Foreign Portfolio Investment](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Financial%20Management_2%20Foreign%20Portfolio%20Investment.pdf)**
+ - **[Foreign Portfolio Investment](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Foreign%20Portfolio%20Investment.pdf)**
  
- - **Module 3 - [Equity](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Module_3%20Equity%20D.pdf)**
+ - **[Equity](hhttps://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Equity%20D.pdf)**
  
- - **Module 4 - [Dividends](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Module_4%20Dividends.pdf)**
+ - **[Dividends](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Dividends.pdf)**
  
- - **Module 5 - [Corporate Finance](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Module_5%20Corporate%20Finance.pdf)** 
+ - **[Corporate Finance](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Corporate%20Finance.pdf)** 
+
+ - **[Derivatives Forward and Futures](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Derivatives%20Forward%20and%20Futures.pdf)**
+ 
+ - **[Derivatives Options](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Derivatives%20Options.pdf)** 
+ 
+ - **[Sources of Finance](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Sources%20of%20Finance%20%26%20Capital%20Structure.pdf)**
+ 
+ - **[VIVA Topics](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/FM%20VIVA%20TOPICS_25th%20March.pdf)**
 
 
 ## IAT - 1
@@ -129,4 +137,3 @@
  - [Module 1 & 6](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-1/Finance_Management.pdf)
  
  - [Module 2](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-1/FM_Module-2.pdf)
-
