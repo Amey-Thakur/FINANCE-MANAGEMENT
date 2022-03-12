@@ -115,7 +115,7 @@
  
  - **[Foreign Portfolio Investment](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Foreign%20Portfolio%20Investment.pdf)**
  
- - **[Equity](hhttps://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Equity%20D.pdf)**
+ - **[Equity](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Equity%20D.pdf)**
  
  - **[Dividends](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Dividends.pdf)**
  
