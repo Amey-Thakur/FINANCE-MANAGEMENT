@@ -111,6 +111,7 @@
 
  - **Module 11 - [Personal Finance](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%2011_Personal%20Finance.pdf) | _30 Chapters_ |** Personal finance is an essential aspect of your financial life as it helps you achieve your short term and long term financial goals. This module encompasses the various aspects of personal finance such as retirement planning, Mutual funds, ETFs, Bonds, and goal-oriented investments.
 
+
 ## Magic Institute of Excellence (MIE)
 
  >**_Presentation by Vishal Bhojani_**
@@ -131,6 +132,12 @@
  
  - **[Sources of Finance](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Sources%20of%20Finance%20%26%20Capital%20Structure.pdf)**
  
+ - **[Finance Management Introduction](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Finance%20Management%20Introduction.pdf)** 
+ 
+ - **[Hedge Funds](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Hedge%20Funds.pdf)** 
+ 
+ - **[Money Markets](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Money%20Markets.pdf)** 
+ 
  - **[VIVA Topics](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/FM%20VIVA%20TOPICS_25th%20March.pdf)**
 
 
@@ -141,3 +148,4 @@
  - [Module 1 & 6](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-1/Finance_Management.pdf)
  
  - [Module 2](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-1/FM_Module-2.pdf)
+
