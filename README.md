@@ -152,7 +152,7 @@
 
 ## IAT - 2
 
- - [Question Paper]() - IAT-2
+ - [Question Paper](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-2/FM_IAT-2_Question_Paper.pdf) - IAT-2
  
  - [Important Questions](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-2/FM_IAT-2.pdf)
  
