@@ -160,3 +160,14 @@
  
  - [FM IAT-2](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-2/FM%20UT%202.pdf)
 
+
+## Semester Exam
+
+ - [Question Paper]()
+ 
+ - [Question Bank]()
+
+ - [Question Bank MCQs]()
+ 
+ - [Timetable](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Semester%20Exam/Semester%208%20Timetable.pdf)
+
