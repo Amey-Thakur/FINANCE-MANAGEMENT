@@ -167,7 +167,7 @@
  
  - [Question Bank](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Semester%20Exam/FM_Question_Bank.pdf)
 
- - [Question Bank MCQs](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Semester%20Exam/FM%20Solved%20QB.pdf)
+ - [Question Bank MCQs](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Semester%20Exam/FM%20QB%20With%20MCQ.pdf)
  
  - [Timetable](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Semester%20Exam/Semester%208%20Timetable.pdf)
 
