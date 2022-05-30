@@ -51,6 +51,37 @@
  - [Cryptocurrency](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/10.%20Cryptocurrency%20-%20FINANCE%20MANAGEMENT.pdf)
 
 
+## IAT - 1
+
+ - [Question Paper](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-1/FM%20IAT-1%20Question%20Paper.pdf) - IAT-1
+ 
+ - [Module 1 & 6](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-1/Finance_Management.pdf)
+ 
+ - [Module 2](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-1/FM_Module-2.pdf)
+
+
+## IAT - 2
+
+ - [Question Paper](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-2/FM_IAT-2_Question_Paper.pdf) - IAT-2
+ 
+ - [Important Questions](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-2/FM_IAT-2.pdf)
+ 
+ - [FM Numericals](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-2/FM_Numericals.pdf)
+ 
+ - [FM IAT-2](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-2/FM%20UT%202.pdf)
+
+
+## Semester Exam
+
+ - [Question Paper]()
+ 
+ - [Question Bank](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Semester%20Exam/FM_Question_Bank.pdf)
+
+ - [Question Bank MCQs](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Semester%20Exam/FM%20QB%20With%20MCQ.pdf)
+ 
+ - [Timetable](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Semester%20Exam/Semester%208%20Timetable.pdf)
+
+
 ## Ebooks by Ankur Warikoo
 
  >[![image](https://user-images.githubusercontent.com/54937357/150667715-5ca876b3-a682-439b-9e20-111ff5264217.png)](https://ankurwarikoo.com)
@@ -139,35 +170,4 @@
  - **[Money Markets](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Money%20Markets.pdf)** 
  
  - **[VIVA Topics](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/FM%20VIVA%20TOPICS_25th%20March.pdf)**
-
-
-## IAT - 1
-
- - [Question Paper](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-1/FM%20IAT-1%20Question%20Paper.pdf) - IAT-1
- 
- - [Module 1 & 6](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-1/Finance_Management.pdf)
- 
- - [Module 2](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-1/FM_Module-2.pdf)
-
-
-## IAT - 2
-
- - [Question Paper](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-2/FM_IAT-2_Question_Paper.pdf) - IAT-2
- 
- - [Important Questions](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-2/FM_IAT-2.pdf)
- 
- - [FM Numericals](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-2/FM_Numericals.pdf)
- 
- - [FM IAT-2](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-2/FM%20UT%202.pdf)
-
-
-## Semester Exam
-
- - [Question Paper]()
- 
- - [Question Bank](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Semester%20Exam/FM_Question_Bank.pdf)
-
- - [Question Bank MCQs](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Semester%20Exam/FM%20QB%20With%20MCQ.pdf)
- 
- - [Timetable](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Semester%20Exam/Semester%208%20Timetable.pdf)
 
