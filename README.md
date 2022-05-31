@@ -73,7 +73,7 @@
 
 ## Semester Exam
 
- - [Question Paper]()
+ - [Question Paper](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Semester%20Exam/Fm.pdf)
  
  - [Question Bank](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Semester%20Exam/FM_Question_Bank.pdf)
 
