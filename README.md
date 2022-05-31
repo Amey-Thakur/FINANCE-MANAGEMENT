@@ -82,6 +82,13 @@
  - [Timetable](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Semester%20Exam/Semester%208%20Timetable.pdf)
 
 
+## Submission Report
+
+ - Semester 8 [Submission Report](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Submission%20Report/Amey_B-50_Submission_Report.pdf)
+
+
+---
+
 ## Ebooks by Ankur Warikoo
 
  >[![image](https://user-images.githubusercontent.com/54937357/150667715-5ca876b3-a682-439b-9e20-111ff5264217.png)](https://ankurwarikoo.com)
