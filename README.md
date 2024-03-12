@@ -87,20 +87,6 @@
  - Semester 8 [Submission Report](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Submission%20Report/Amey_B-50_Submission_Report.pdf)
 
 
----
-
-## Ebooks by Ankur Warikoo
-
- >[![image](https://user-images.githubusercontent.com/54937357/150667715-5ca876b3-a682-439b-9e20-111ff5264217.png)](https://ankurwarikoo.com)
-
- - **[Mistakes I made with Money](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Ebooks%20by%20Ankur%20Warikoo/Mistakes%20I%20made%20with%20Money.pdf)**
- - **[Mistakes in my 20s](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Ebooks%20by%20Ankur%20Warikoo/Mistakes%20in%20my%2020s.pdf)**
- - **[Mistakes in my 30s](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Ebooks%20by%20Ankur%20Warikoo/Mistakes%20in%20my%2030s.pdf)**
- - **[My Failure Resume](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Ebooks%20by%20Ankur%20Warikoo/My%20Failure%20Resume.pdf)**
- - **[Thread on Leadership](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Ebooks%20by%20Ankur%20Warikoo/Thread%20on%20Leadership.pdf)**
- - **[Thread on Managing Time by Ankur Warikoo](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Ebooks%20by%20Ankur%20Warikoo/Thread%20on%20Managing%20Time%20by%20Ankur%20Warikoo.pdf)**
-
-
 ## The Rupee Tales - Finance for Kids 
 
  >[![image](https://user-images.githubusercontent.com/54937357/150667752-a3e8a7f4-04ae-4e77-9c74-ffa309cd2714.png)](https://rupeetales.com/?c=varsity)
