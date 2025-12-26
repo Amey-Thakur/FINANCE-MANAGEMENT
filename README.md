@@ -2,6 +2,8 @@
 
  👍🏻 ILO8022: FM [SEMESTER VIII]
 
+ [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+
 ---
  
  - [X] **[Syllabus](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MU%20SEM%20VIII%20SYLLABUS.pdf)**
@@ -164,6 +166,13 @@
  - **[Money Markets](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Money%20Markets.pdf)** 
  
  - **[VIVA Topics](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/FM%20VIVA%20TOPICS_25th%20March.pdf)**
+
+## License
+
+This repository and all linked academic content are made available under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. See the [LICENSE](LICENSE) file for complete terms.
+
+> [!NOTE]
+> **Summary:** You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
 
 ---
 
