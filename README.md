@@ -61,45 +61,45 @@ Comprehensive module-wise notes curated by Mega Satish:
  
  >**[MEGA SATISH](https://github.com/msatmod) - AUTHOR**
  
- - [Stocks Basic](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/1.%20Stocks%20Basic%20-%20FINANCE%20MANAGEMENT.pdf)
+ - [Stocks Basic](MEGA%20NOTES/1.%20Stocks%20Basic%20-%20FINANCE%20MANAGEMENT.pdf)
  
- - [Technical Analysis](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/2.%20Technical%20Analysis%20-%20FINANCE%20MANAGEMENT.pdf)
+ - [Technical Analysis](MEGA%20NOTES/2.%20Technical%20Analysis%20-%20FINANCE%20MANAGEMENT.pdf)
  
- - [Future Trading](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/3.%20Future%20Trading%20-%20FINANCE%20MANAGEMENT.pdf)
+ - [Future Trading](MEGA%20NOTES/3.%20Future%20Trading%20-%20FINANCE%20MANAGEMENT.pdf)
  
- - [Options Theory for Professional Trading and Options Strategies](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/4.%20Options%20Theory%20for%20Professional%20Trading%20and%20Options%20Strategies%20-%20FINANCE%20MANAGEMENT.pdf)
+ - [Options Theory for Professional Trading and Options Strategies](MEGA%20NOTES/4.%20Options%20Theory%20for%20Professional%20Trading%20and%20Options%20Strategies%20-%20FINANCE%20MANAGEMENT.pdf)
  
- - [Market & Taxation](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/5.%20Market%20%26%20Taxation%20-%20FINANCE%20MANAGEMENT.pdf)
+ - [Market & Taxation](MEGA%20NOTES/5.%20Market%20%26%20Taxation%20-%20FINANCE%20MANAGEMENT.pdf)
  
- - [Risk Management and Trading Psychology](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/6.%20Risk%20Management%20and%20Trading%20Psychology%20-%20FINANCE%20MANAGEMENT.pdf)
+ - [Risk Management and Trading Psychology](MEGA%20NOTES/6.%20Risk%20Management%20and%20Trading%20Psychology%20-%20FINANCE%20MANAGEMENT.pdf)
  
- - [Personal Finance](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/7.%20Personal%20Finance%20-%20FINANCE%20MANAGEMENT.pdf)
+ - [Personal Finance](MEGA%20NOTES/7.%20Personal%20Finance%20-%20FINANCE%20MANAGEMENT.pdf)
  
- - [Fundamental Analysis](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/8.%20Fundamental%20Analysis%20-%20FINANCE%20MANAGEMENT.pdf)
+ - [Fundamental Analysis](MEGA%20NOTES/8.%20Fundamental%20Analysis%20-%20FINANCE%20MANAGEMENT.pdf)
  
- - [Dividend and Investment Banking](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/9.%20Dividend%20and%20Investment%20Banking%20-%20FINANCE%20MANAGEMENT.pdf)
+ - [Dividend and Investment Banking](MEGA%20NOTES/9.%20Dividend%20and%20Investment%20Banking%20-%20FINANCE%20MANAGEMENT.pdf)
 
- - [Cryptocurrency](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MEGA%20NOTES/10.%20Cryptocurrency%20-%20FINANCE%20MANAGEMENT.pdf)
+ - [Cryptocurrency](MEGA%20NOTES/10.%20Cryptocurrency%20-%20FINANCE%20MANAGEMENT.pdf)
 
 
 ## IAT - 1
 
- - [Question Paper](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-1/FM%20IAT-1%20Question%20Paper.pdf) - IAT-1
+ - [Question Paper](IAT-1/FM%20IAT-1%20Question%20Paper.pdf) - IAT-1
  
- - [Module 1 & 6](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-1/Finance_Management.pdf)
+ - [Module 1 & 6](IAT-1/Finance_Management.pdf)
  
- - [Module 2](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-1/FM_Module-2.pdf)
+ - [Module 2](IAT-1/FM_Module-2.pdf)
 
 
 ## IAT - 2
 
- - [Question Paper](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-2/FM_IAT-2_Question_Paper.pdf) - IAT-2
+ - [Question Paper](IAT-2/FM_IAT-2_Question_Paper.pdf) - IAT-2
  
- - [Important Questions](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-2/FM_IAT-2.pdf)
+ - [Important Questions](IAT-2/FM_IAT-2.pdf)
  
- - [FM Numericals](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-2/FM_Numericals.pdf)
+ - [FM Numericals](IAT-2/FM_Numericals.pdf)
  
- - [FM IAT-2](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/IAT-2/FM%20UT%202.pdf)
+ - [FM IAT-2](IAT-2/FM%20UT%202.pdf)
 
 
 ## Semester Exam
