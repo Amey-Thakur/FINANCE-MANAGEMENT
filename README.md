@@ -6,27 +6,55 @@
 
 ---
  
- - [X] **[Syllabus](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/MU%20SEM%20VIII%20SYLLABUS.pdf)**
+ - [X] [Syllabus](MU%20SEM%20VIII%20SYLLABUS.pdf)
  
- - [X] **FM - [Reference Books](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/tree/main/Reference%20Books)**
+ - [X] FM - [Reference Books](Reference%20Books)
 
 ---
 
 ## THE WALL
 
- >**[MEGA SATISH](https://github.com/msatmod) - AUTHOR**
- 
- - FM [Module - 1](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/THE%20WALL/FM_Module-1.pdf)
- 
- - FM [Module - 2](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/THE%20WALL/FM_Module-2.pdf)
- 
- - FM [Module - 3](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/THE%20WALL/FM_Module-3.pdf)
- 
- - FM [Module - 4](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/THE%20WALL/FM_Module-4.pdf)
- 
- - FM [Module - 5](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/THE%20WALL/FM_Module-5.pdf)
- 
- - FM [Module - 6](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/THE%20WALL/FM_Module-6.pdf)
+<div align="center">
+
+**Collaborative Study Notes by Amey & Mega**
+
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/Amey-Thakur">
+<img src="https://github.com/Amey-Thakur.png" alt="Amey Thakur" width="150" height="150"/><br/>
+<b>Amey Thakur</b>
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/msatmod">
+<img src="THE%20WALL/Mega/Mega.png" alt="Mega Satish" width="150" height="150"/><br/>
+<b>Mega Satish</b>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+> [!IMPORTANT]
+> 💝 **Special Thanks**: A heartfelt thank you to Mega for her constant support, patience, and clarity throughout this journey. Learning alongside her made a real difference, not only because she explained concepts so clearly, but because she truly cared about understanding them together. Her thoughtful approach to teaching, openness to discussion, and steady encouragement turned challenges into meaningful learning moments. This work reflects the growth that came from learning side by side. Thank you, Mega, for everything you shared and taught along the way.
+
+### The Wall - Notes Authored by [MEGA SATISH](https://github.com/msatmod)
+
+Comprehensive module-wise notes curated by Mega Satish:
+
+| Module | Resource | Topics Covered |
+|:---:|:---|:---|
+| 1 | [FM Module - 1](THE%20WALL/FM_Module-1.pdf) | Introduction to Financial Management |
+| 2 | [FM Module - 2](THE%20WALL/FM_Module-2.pdf) | Time Value of Money |
+| 3 | [FM Module - 3](THE%20WALL/FM_Module-3.pdf) | Sources of Finance and Cost of Capital |
+| 4 | [FM Module - 4](THE%20WALL/FM_Module-4.pdf) | Capital Budgeting |
+| 5 | [FM Module - 5](THE%20WALL/FM_Module-5.pdf) | Working Capital Management |
+| 6 | [FM Module - 6](THE%20WALL/FM_Module-6.pdf) | Financial Planning and Ratio Analysis |
+
+> [!NOTE]
+> **COVID-19 Impact**: This coursework was completed during the COVID-19 pandemic in 2022. Due to the nationwide lockdown and the sudden transition to online learning, several planned laboratory sessions and collaborative note-taking activities could not be carried out as originally intended. Despite these challenges, efforts were made to adapt and preserve as much work as possible.
 
 
 ## MEGA NOTES
