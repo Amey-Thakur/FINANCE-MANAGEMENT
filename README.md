@@ -104,13 +104,13 @@ Comprehensive module-wise notes curated by Mega Satish:
 
 ## Semester Exam
 
- - [Question Paper](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Semester%20Exam/Fm.pdf)
+ - [Question Paper](Semester%20Exam/Fm.pdf)
  
- - [Question Bank](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Semester%20Exam/FM_Question_Bank.pdf)
+ - [Question Bank](Semester%20Exam/FM_Question_Bank.pdf)
 
- - [Question Bank MCQs](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Semester%20Exam/FM%20QB%20MCQs.pdf)
+ - [Question Bank MCQs](Semester%20Exam/FM%20QB%20MCQs.pdf)
  
- - [Timetable](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Semester%20Exam/Semester%208%20Timetable.pdf)
+ - [Timetable](Semester%20Exam/Semester%208%20Timetable.pdf)
 
 
 ## Submission Report
@@ -171,15 +171,15 @@ Comprehensive module-wise notes curated by Mega Satish:
 
  >**_Presentation by Vishal Bhojani_**
 
- - **[Indian Financial System, Institutions & Markets](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Indian%20Financial%20System%2C%20Institutions%20%26%20Markets.pdf)**
+ - **[Indian Financial System, Institutions & Markets](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Indian%20Financial%20System%2C%20Institutions%20%26%20Markets.pdf)**
  
- - **[Foreign Portfolio Investment](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Foreign%20Portfolio%20Investment.pdf)**
+ - **[Foreign Portfolio Investment](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Foreign%20Portfolio%20Investment.pdf)**
  
- - **[Equity](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Equity%20D.pdf)**
+ - **[Equity](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Equity%20D.pdf)**
  
- - **[Dividends](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Dividends.pdf)**
+ - **[Dividends](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Dividends.pdf)**
  
- - **[Corporate Finance](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Corporate%20Finance.pdf)** 
+ - **[Corporate Finance](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Corporate%20Finance.pdf)** 
 
  - **[Derivatives Forward and Futures](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Derivatives%20Forward%20and%20Futures.pdf)**
  
