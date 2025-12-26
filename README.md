@@ -115,7 +115,7 @@ Comprehensive module-wise notes curated by Mega Satish:
 
 ## Submission Report
 
- - Semester 8 [Submission Report](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Submission%20Report/Amey_B-50_Submission_Report.pdf)
+ - Semester 8 [Submission Report](Submission%20Report/Amey_B-50_Submission_Report.pdf)
 
 
 ## The Rupee Tales - Finance for Kids 
@@ -181,19 +181,19 @@ Comprehensive module-wise notes curated by Mega Satish:
  
  - **[Corporate Finance](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Corporate%20Finance.pdf)** 
 
- - **[Derivatives Forward and Futures](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Derivatives%20Forward%20and%20Futures.pdf)**
+ - **[Derivatives Forward and Futures](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Derivatives%20Forward%20and%20Futures.pdf)**
  
- - **[Derivatives Options](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Derivatives%20Options.pdf)** 
+ - **[Derivatives Options](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Derivatives%20Options.pdf)** 
  
- - **[Sources of Finance](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Sources%20of%20Finance%20%26%20Capital%20Structure.pdf)**
+ - **[Sources of Finance](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Sources%20of%20Finance%20%26%20Capital%20Structure.pdf)**
  
- - **[Finance Management Introduction](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Finance%20Management%20Introduction.pdf)** 
+ - **[Finance Management Introduction](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Finance%20Management%20Introduction.pdf)** 
  
- - **[Hedge Funds](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Hedge%20Funds.pdf)** 
+ - **[Hedge Funds](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Hedge%20Funds.pdf)** 
  
- - **[Money Markets](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Money%20Markets.pdf)** 
+ - **[Money Markets](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Money%20Markets.pdf)** 
  
- - **[VIVA Topics](https://github.com/Amey-Thakur/FINANCE-MANAGEMENT/blob/main/Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/FM%20VIVA%20TOPICS_25th%20March.pdf)**
+ - **[VIVA Topics](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/FM%20VIVA%20TOPICS_25th%20March.pdf)**
 
 ## License
 
