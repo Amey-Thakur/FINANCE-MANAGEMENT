@@ -68,7 +68,7 @@ All materials in this repository were gathered, organized, and documented by me 
 
 This collection includes **comprehensive reference materials** covering all major topics:
 
-| # | Resource | Description |
+| # | Resource | Focus Area |
 |:-:|:---|:---|
 | 1 | [FM Techknowledge](Reference%20Books/FM%20Techknowledge.pdf) | Comprehensive TechKnowledge study material |
 | 2 | [Techknowledge (Searchable)](Reference%20Books/Techknowledge%20Searchable.pdf) | Searchable version of FM TechKnowledge |
