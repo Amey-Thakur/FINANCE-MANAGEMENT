@@ -160,14 +160,13 @@ Comprehensive module-wise notes curated by Mega Satish, covering all essential t
 
 ### The Rupee Tales
 
-**Finance for Kids** - A box set of 5 books introducing financial concepts to children by Varsity @ Zerodha.
-*Illustrations by Tarun Andrews, Authored by Karthik Rangappa.*
-
 <div align="center">
 
 [![The Rupee Tales](https://user-images.githubusercontent.com/54937357/150667752-a3e8a7f4-04ae-4e77-9c74-ffa309cd2714.png)](https://rupeetales.com/?c=varsity)
 
 </div>
+
+**Finance for Kids** - A box set of 5 books introducing financial concepts to children by Varsity @ Zerodha. *Illustrations by Tarun Andrews, Authored by Karthik Rangappa.*
 
 | Book | Title | Concept | Resource |
 |:---:|:---|:---|:---|
