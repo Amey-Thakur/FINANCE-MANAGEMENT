@@ -1,18 +1,73 @@
-# FINANCE-MANAGEMENT
+<!-- =========================================================================================
+                                      HEADER SECTION
+     ========================================================================================= -->
+<div align="center">
 
- 👍🏻 ILO8022: FM [SEMESTER VIII]
+  <img src="https://raw.githubusercontent.com/Amey-Thakur/COMPUTER-ENGINEERING/main/university-of-mumbai-logo.png" alt="University of Mumbai" width="200"/>
 
- [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+  # Finance Management
+
+  ### ILO8022 · Semester VIII · Computer Engineering
+
+  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
+  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+
+  **A comprehensive academic resource for Finance Management (FM), covering financial systems, time value of money, capital budgeting, working capital, and investment strategies.**
+
+  ---
+
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [The Wall](#the-wall) &nbsp;·&nbsp; [Mega Notes](#mega-notes) &nbsp;·&nbsp; [The Rupee Tales](#the-rupee-tales) &nbsp;·&nbsp; [Zerodha Varsity](#zerodha-varsity) &nbsp;·&nbsp; [Magic Institute](#magic-institute-of-excellence) &nbsp;·&nbsp; [Internal Assessment Test](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+
+</div>
 
 ---
- 
- - [X] [Syllabus](MU%20SEM%20VIII%20SYLLABUS.pdf)
- 
- - [X] FM - [Reference Books](Reference%20Books)
+
+<!-- =========================================================================================
+                                      OVERVIEW SECTION
+     ========================================================================================= -->
+## Overview
+
+Finance Management (ILO8022) is an Institute Level Optional subject in the Final Year (Semester VIII) of the engineering curriculum. It provides a fundamental understanding of financial concepts, markets, instruments, and corporate financial strategies, essential for making informed economic decisions.
+
+### Course Topics
+
+The curriculum encompasses key domains in Finance:
+
+- **Financial Systems**: Overview of Indian financial systems, markets, and institutions.
+- **Time Value of Money**: Concepts of compounding, discounting, and annuity.
+- **Capital Budgeting**: Techniques for investment appraisal (NPV, IRR, Payback Period).
+- **Working Capital Management**: Managing current assets and liabilities.
+- **Sources of Finance**: Equity, debt, and hybrid instruments.
+- **Financial Planning**: Ratio analysis and financial statement interpretation.
 
 ---
 
-## THE WALL
+<!-- =========================================================================================
+                                      CONTENTS SECTION
+     ========================================================================================= -->
+## Repository Contents
+
+### Reference Books
+
+This collection includes **comprehensive reference materials** covering all major topics:
+
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [FM Techknowledge](Reference%20Books/FM%20Techknowledge.pdf) | Comprehensive TechKnowledge study material |
+| 2 | [Techknowledge (Searchable)](Reference%20Books/Techknowledge%20Searchable.pdf) | Searchable version of FM TechKnowledge |
+| 3 | [Fundamentals of Financial Management](Reference%20Books/Fundamentals%20of%20Financial%20Management%20_compressed.pdf) | Core concepts by Eugene F. Brigham |
+| 4 | [Financial Management (I.M. Pandey)](Reference%20Books/Pandey-I-Financial-Management-11ed-2018-.pdf) | Standard text by I.M. Pandey (11th Ed) |
+| 5 | [Indian Financial System (M.Y. Khan)](Reference%20Books/M%20Y%20Khan%20-%20Indian%20Financial%20System_%2010_e%20(%2C%20McGraw-Hill%20Education)%20-%20libgen.lc.pdf) | Detailed analysis of Indian Financial Systems |
+| 6 | [Management Accounting (M.Y. Khan)](Reference%20Books/M.%20Y.%20KHAN%20-%20MANAGEMENT%20ACCOUNTING%20AND%20FINANCIAL%20ANALYSIS%20for%20CA%20Final%20Examination%20(2015%2C%20McGraw-Hill%20Education)%20-%20libgen.lc.pdf) | Financial analysis and accounting principles |
+| 7 | [RAI University Notes](Reference%20Books/Financial-Management-RAI-TECHNOLOGY-UNIVERSITY.pdf) | University lecture notes on Financial Management |
+| 8 | [Module MCQs](Reference%20Books/MCQs%20from%20all%20Modules.pdf) | Comprehensive MCQ collection for all modules |
+| 9 | [Theory Question Bank](Reference%20Books/Theory%20Questions%20with%20Answers.pdf) | Theory questions with detailed answers |
+
+---
+
+### The Wall
 
 <div align="center">
 
@@ -56,145 +111,174 @@ Comprehensive module-wise notes curated by Mega Satish:
 > [!NOTE]
 > **COVID-19 Impact**: This coursework was completed during the COVID-19 pandemic in 2022. Due to the nationwide lockdown and the sudden transition to online learning, several planned laboratory sessions and collaborative note-taking activities could not be carried out as originally intended. Despite these challenges, efforts were made to adapt and preserve as much work as possible.
 
+---
 
-## MEGA NOTES
- 
- >**[MEGA SATISH](https://github.com/msatmod) - AUTHOR**
- 
- - [Stocks Basic](MEGA%20NOTES/1.%20Stocks%20Basic%20-%20FINANCE%20MANAGEMENT.pdf)
- 
- - [Technical Analysis](MEGA%20NOTES/2.%20Technical%20Analysis%20-%20FINANCE%20MANAGEMENT.pdf)
- 
- - [Future Trading](MEGA%20NOTES/3.%20Future%20Trading%20-%20FINANCE%20MANAGEMENT.pdf)
- 
- - [Options Theory for Professional Trading and Options Strategies](MEGA%20NOTES/4.%20Options%20Theory%20for%20Professional%20Trading%20and%20Options%20Strategies%20-%20FINANCE%20MANAGEMENT.pdf)
- 
- - [Market & Taxation](MEGA%20NOTES/5.%20Market%20%26%20Taxation%20-%20FINANCE%20MANAGEMENT.pdf)
- 
- - [Risk Management and Trading Psychology](MEGA%20NOTES/6.%20Risk%20Management%20and%20Trading%20Psychology%20-%20FINANCE%20MANAGEMENT.pdf)
- 
- - [Personal Finance](MEGA%20NOTES/7.%20Personal%20Finance%20-%20FINANCE%20MANAGEMENT.pdf)
- 
- - [Fundamental Analysis](MEGA%20NOTES/8.%20Fundamental%20Analysis%20-%20FINANCE%20MANAGEMENT.pdf)
- 
- - [Dividend and Investment Banking](MEGA%20NOTES/9.%20Dividend%20and%20Investment%20Banking%20-%20FINANCE%20MANAGEMENT.pdf)
+### Mega Notes
 
- - [Cryptocurrency](MEGA%20NOTES/10.%20Cryptocurrency%20-%20FINANCE%20MANAGEMENT.pdf)
+Advanced financial topics authored by **[Mega Satish](https://github.com/msatmod)**:
 
+| # | Topic | Resource |
+|:-:|:---|:---|
+| 1 | Stocks Basic | [View Notes](MEGA%20NOTES/1.%20Stocks%20Basic%20-%20FINANCE%20MANAGEMENT.pdf) |
+| 2 | Technical Analysis | [View Notes](MEGA%20NOTES/2.%20Technical%20Analysis%20-%20FINANCE%20MANAGEMENT.pdf) |
+| 3 | Future Trading | [View Notes](MEGA%20NOTES/3.%20Future%20Trading%20-%20FINANCE%20MANAGEMENT.pdf) |
+| 4 | Options Theory | [View Notes](MEGA%20NOTES/4.%20Options%20Theory%20for%20Professional%20Trading%20and%20Options%20Strategies%20-%20FINANCE%20MANAGEMENT.pdf) |
+| 5 | Market & Taxation | [View Notes](MEGA%20NOTES/5.%20Market%20%26%20Taxation%20-%20FINANCE%20MANAGEMENT.pdf) |
+| 6 | Risk Management | [View Notes](MEGA%20NOTES/6.%20Risk%20Management%20and%20Trading%20Psychology%20-%20FINANCE%20MANAGEMENT.pdf) |
+| 7 | Personal Finance | [View Notes](MEGA%20NOTES/7.%20Personal%20Finance%20-%20FINANCE%20MANAGEMENT.pdf) |
+| 8 | Fundamental Analysis | [View Notes](MEGA%20NOTES/8.%20Fundamental%20Analysis%20-%20FINANCE%20MANAGEMENT.pdf) |
+| 9 | Investment Banking | [View Notes](MEGA%20NOTES/9.%20Dividend%20and%20Investment%20Banking%20-%20FINANCE%20MANAGEMENT.pdf) |
+| 10 | Cryptocurrency | [View Notes](MEGA%20NOTES/10.%20Cryptocurrency%20-%20FINANCE%20MANAGEMENT.pdf) |
 
-## IAT - 1
+---
 
- - [Question Paper](IAT-1/FM%20IAT-1%20Question%20Paper.pdf) - IAT-1
- 
- - [Module 1 & 6](IAT-1/Finance_Management.pdf)
- 
- - [Module 2](IAT-1/FM_Module-2.pdf)
+### The Rupee Tales
 
+**Finance for Kids** - A box set of 5 books introducing financial concepts to children by Varsity @ Zerodha.
+*Illustrations by Tarun Andrews, Authored by Karthik Rangappa.*
 
-## IAT - 2
+| Book | Title | Concept | Resource |
+|:---:|:---|:---|:---|
+| 1 | **Anu Learns To Save** | Savings | [Read Book](The%20Rupee%20Tales%20(Finance%20for%20Kids)%20-%20Karthik%20Rangappa%20Illustrations%20by%20Tarun%20Andrews/Book%201_Anu%20Learns%20To%20Save.pdf) |
+| 2 | **Mani's Money** | Banking | [Read Book](The%20Rupee%20Tales%20(Finance%20for%20Kids)%20-%20Karthik%20Rangappa%20Illustrations%20by%20Tarun%20Andrews/Book%202_Mani's%20Money.pdf) |
+| 3 | **Vishrambu's Bus Journey** | Taxes & Public Goods | [Read Book](The%20Rupee%20Tales%20(Finance%20for%20Kids)%20-%20Karthik%20Rangappa%20Illustrations%20by%20Tarun%20Andrews/Book%203_Vishrambu's%20Bus%20Journey.pdf) |
+| 4 | **One And A Half Stories** | Insurance | [Read Book](The%20Rupee%20Tales%20(Finance%20for%20Kids)%20-%20Karthik%20Rangappa%20Illustrations%20by%20Tarun%20Andrews/Book%204_One%20And%20A%20Half%20Stories.pdf) |
+| 5 | **The Cake Shop** | Stock Markets | [Read Book](The%20Rupee%20Tales%20(Finance%20for%20Kids)%20-%20Karthik%20Rangappa%20Illustrations%20by%20Tarun%20Andrews/Book%205_The%20Cake%20Shop.pdf) |
 
- - [Question Paper](IAT-2/FM_IAT-2_Question_Paper.pdf) - IAT-2
- 
- - [Important Questions](IAT-2/FM_IAT-2.pdf)
- 
- - [FM Numericals](IAT-2/FM_Numericals.pdf)
- 
- - [FM IAT-2](IAT-2/FM%20UT%202.pdf)
+> [![The Rupee Tales](https://user-images.githubusercontent.com/54937357/150667752-a3e8a7f4-04ae-4e77-9c74-ffa309cd2714.png)](https://rupeetales.com/?c=varsity)
 
+---
 
+### Zerodha Varsity
+
+**Financial Education by Karthik Rangappa**
+*Open stock market and financial education resource.*
+
+| # | Module | Topics Covered | Resource |
+|:-:|:---|:---|:---|
+| 1 | **Introduction to Stock Markets** | Fundamentals, Functioning, Intermediaries (15 Chapters) | [View Module](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%201_Introduction%20to%20Stock%20Markets.pdf) |
+| 2 | **Technical Analysis** | Patterns, Indicators, Theories (22 Chapters) | [View Module](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%202_Technical%20Analysis.pdf) |
+| 3 | **Fundamental Analysis** | Equity research, Financial statements, Ratios (16 Chapters) | [View Module](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%203_Fundamental%20Analysis.pdf) |
+| 4 | **Futures Trading** | Derivatives, Margins, Leverage, Pricing (13 Chapters) | [View Module](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%204_Futures%20Trading.pdf) |
+| 5 | **Options Theory** | Professional Trading, Contracts (25 Chapters) | [View Module](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%205_Options%20Theory%20for%20Professional%20Trading.pdf) |
+| 6 | **Option Strategies** | Greeks, Risk-Return, Market Trends (14 Chapters) | [View Module](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%206_Option%20Strategies.pdf) |
+| 7 | **Markets & Taxation** | Investing Taxation, Turnover, Filing ITR (7 Chapters) | [View Module](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%207_Markets%20%26%20Taxation.pdf) |
+| 8 | **Currency & Commodity** | Forexc, MCX, GSec (19 Chapters) | [View Module](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%208_Currency%20and%20Commodity%20Futures.pdf) |
+| 9 | **Risk Management** | Psychology, Consistency, Profitability (16 Chapters) | [View Module](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%209_Risk%20Management%20%26%20Trading%20Psychology.pdf) |
+| 10 | **Trading Systems** | Building Systems, Parameters, Analysis (16 Chapters) | [View Module](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%2010_Trading%20Systems.pdf) |
+| 11 | **Personal Finance** | Retirement, Mutual Funds, ETFs, Goals (30 Chapters) | [View Module](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%2011_Personal%20Finance.pdf) |
+
+> [![Zerodha Varsity](https://user-images.githubusercontent.com/54937357/150668021-87bbd241-1212-4107-a3c5-aaec50490e48.png)](https://zerodha.com/varsity)
+
+---
+
+### Magic Institute of Excellence
+
+**Presentations by Vishal Bhojani**
+
+| # | Topic | Resource |
+|:-:|:---|:---|
+| 1 | Indian Financial System | [View Presentation](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Indian%20Financial%20System%2C%20Institutions%20%26%20Markets.pdf) |
+| 2 | Foreign Portfolio Investment | [View Presentation](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Foreign%20Portfolio%20Investment.pdf) |
+| 3 | Equity | [View Presentation](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Equity%20D.pdf) |
+| 4 | Dividends | [View Presentation](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Dividends.pdf) |
+| 5 | Corporate Finance | [View Presentation](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Corporate%20Finance.pdf) |
+| 6 | Derivatives (Forward & Futures) | [View Presentation](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Derivatives%20Forward%20and%20Futures.pdf) |
+| 7 | Derivatives (Options) | [View Presentation](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Derivatives%20Options.pdf) |
+| 8 | Sources of Finance | [View Presentation](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Sources%20of%20Finance%20%26%20Capital%20Structure.pdf) |
+| 9 | Finance Management Intro | [View Presentation](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Finance%20Management%20Introduction.pdf) |
+| 10 | Hedge Funds | [View Presentation](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Hedge%20Funds.pdf) |
+| 11 | Money Markets | [View Presentation](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Money%20Markets.pdf) |
+| 12 | Viva Topics | [View Topics](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/FM%20VIVA%20TOPICS_25th%20March.pdf) |
+
+---
+
+<!-- =========================================================================================
+                                      IAT SECTION
+     ========================================================================================= -->
+## Internal Assessment Test
+
+Internal assessment evaluations including question papers and study materials.
+
+### IAT - 1
+
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Question Paper](IAT-1/FM%20IAT-1%20Question%20Paper.pdf) | IAT-1 Question Paper |
+| 2 | [Module 1 & 6](IAT-1/Finance_Management.pdf) | Study Material for Module 1 & 6 |
+| 3 | [Module 2](IAT-1/FM_Module-2.pdf) | Study Material for Module 2 |
+
+### IAT - 2
+
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Question Paper](IAT-2/FM_IAT-2_Question_Paper.pdf) | IAT-2 Question Paper |
+| 2 | [Important Questions](IAT-2/FM_IAT-2.pdf) | Key preparation questions |
+| 3 | [FM Numericals](IAT-2/FM_Numericals.pdf) | Numerical practice problems |
+| 4 | [FM IAT-2 Notes](IAT-2/FM%20UT%202.pdf) | Comprehensive IAT-2 notes |
+
+---
+
+<!-- =========================================================================================
+                                      SEMESTER EXAM SECTION
+     ========================================================================================= -->
 ## Semester Exam
 
- - [Question Paper](Semester%20Exam/Fm.pdf)
- 
- - [Question Bank](Semester%20Exam/FM_Question_Bank.pdf)
+Final semester examination resources:
 
- - [Question Bank MCQs](Semester%20Exam/FM%20QB%20MCQs.pdf)
- 
- - [Timetable](Semester%20Exam/Semester%208%20Timetable.pdf)
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Question Paper](Semester%20Exam/Fm.pdf) | Official Semester Question Paper |
+| 2 | [Question Bank](Semester%20Exam/FM_Question_Bank.pdf) | Comprehensive Question Bank |
+| 3 | [MCQ Bank](Semester%20Exam/FM%20QB%20MCQs.pdf) | Multiple Choice Questions |
+| 4 | [Timetable](Semester%20Exam/Semester%208%20Timetable.pdf) | Semester 8 Examination Schedule |
 
+---
 
-## Submission Report
+<!-- =========================================================================================
+                                      SUBMISSION REPORT SECTION
+     ========================================================================================= -->
+## Submission Completion Report
 
- - Semester 8 [Submission Report](Submission%20Report/Amey_B-50_Submission_Report.pdf)
+Course completion documentation:
 
+| # | Document | Description |
+|:-:|:---|:---|
+| 1 | [Submission Report](Submission%20Report/Amey_B-50_Submission_Report.pdf) | Final Semester 8 Submission Report |
 
-## The Rupee Tales - Finance for Kids 
+---
 
- >[![image](https://user-images.githubusercontent.com/54937357/150667752-a3e8a7f4-04ae-4e77-9c74-ffa309cd2714.png)](https://rupeetales.com/?c=varsity)
+<!-- =========================================================================================
+                                      SYLLABUS SECTION
+     ========================================================================================= -->
+## Syllabus
 
-- _A box set of 5 books introducing 5 financial concepts to children by Varsity @ Zerodha._ 
-    * _Topics: Savings, Banking & Inflation, Taxation, Insurance, Stock Markets._
-    * _Karthik Rangappa Illustrations by Tarun Andrews_
+> [**Official CBCGS Syllabus**](MU%20SEM%20VIII%20SYLLABUS.pdf)  
+> Complete Final Year Engineering syllabus from the University of Mumbai, including detailed course outcomes for Finance Management (ILO8022).
 
- - **Book 1 - [Anu Learns To Save](The%20Rupee%20Tales%20(Finance%20for%20Kids)%20-%20Karthik%20Rangappa%20Illustrations%20by%20Tarun%20Andrews/Book%201_Anu%20Learns%20To%20Save.pdf)** | This is a story about Anu, a little girl from Goa, and how she learns to save money for the future from her friend, Annie.
- 
- - **Book 2 - [Mani's Money](The%20Rupee%20Tales%20(Finance%20for%20Kids)%20-%20Karthik%20Rangappa%20Illustrations%20by%20Tarun%20Andrews/Book%202_Mani's%20Money.pdf)** | Dadi helps Mani understand why his money is safe in a bank as opposed to keeping it in the house.
- 
- - **Book 3 - [Vishrambu's Bus Journey](The%20Rupee%20Tales%20(Finance%20for%20Kids)%20-%20Karthik%20Rangappa%20Illustrations%20by%20Tarun%20Andrews/Book%203_Vishrambu's%20Bus%20Journey.pdf)** | Super-naughty Vishrambu learns not to destroy public property as it belongs to everyone in the country and is funded by the taxpayers.
- 
- - **Book 4 - [One And A Half Stories](The%20Rupee%20Tales%20(Finance%20for%20Kids)%20-%20Karthik%20Rangappa%20Illustrations%20by%20Tarun%20Andrews/Book%204_One%20And%20A%20Half%20Stories.pdf)** | While Janki reads her daughter Tara a bedtime story, Tara learns about insurance and wonders if she can insure her favourite toys forever.
- 
- - **Book 5 - [The Cake Shop](The%20Rupee%20Tales%20(Finance%20for%20Kids)%20-%20Karthik%20Rangappa%20Illustrations%20by%20Tarun%20Andrews/Book%205_The%20Cake%20Shop.pdf)** | Vidya has a tough task as she has to explain the stock markets to her 8-year-old angry son.
+> [!IMPORTANT]
+> Always verify the latest syllabus details with the official University of Mumbai website, as curriculum updates may occur after this repository's archival date.
 
-## Zerodha Varsity - Karthik Rangappa
+---
 
- >[![image](https://user-images.githubusercontent.com/54937357/150668021-87bbd241-1212-4107-a3c5-aaec50490e48.png)](https://zerodha.com/varsity)
+<!-- =========================================================================================
+                                      USAGE GUIDELINES SECTION
+     ========================================================================================= -->
+## Usage Guidelines
 
- - _Free and open stock market and financial education_
-     * _Varsity is an extensive and in-depth collection of stock market and financial lessons created by Karthik Rangappa at Zerodha. It is openly accessible to everyone and is one of the largest financial education resources on the web._
-     * _Karthik Rangappa heads educational initiatives at Zerodha and has more than a decade of research experience in financial markets. He travels widely conducting educational programmes._
+This repository is openly shared to support learning and financial literacy.
 
- - **Module 1 - [Introduction to Stock Markets](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%201_Introduction%20to%20Stock%20Markets.pdf) | _15 Chapters_ |** Investing ensures financial security, and the Stock market plays a pivotal role in this domain, it is a place where people buy/sell shares of publicly listed companies. In this module, you will learn about the fundamentals of the stock market, how to get started, how it functions and the various intermediaries that appertain it.
- 
- - **Module 2 - [Technical Analysis](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%202_Technical%20Analysis.pdf) | _22 Chapters_ |** Technical Analysis (TA) plays an important role in developing a point of view. Like every other research, TA also has its own attributes. In this module, we will discover all those complex attributes of TA, study various patterns, indicators and theories that will help you as a trader to find upright trading opportunities in the market.
- 
- - **Module 3 - [Fundamental Analysis](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%203_Fundamental%20Analysis.pdf) | _16 Chapters_ |** Fundamental Analysis (FA) is a holistic approach to study a business. This module will help you understand Equity research, read financial statements, annual reports, calculation of Financial Ratio, Analysis and most importantly evaluate the intrinsic value of a stock to find long-term investing opportunities.
- 
- - **Module 4 - [Futures Trading](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%204_Futures%20Trading.pdf) | _13 Chapters_ |** Futures Trading involves trading in contracts in the derivatives markets. This module covers the various intricacies involved in undergoing a futures trade including margins, leverages, pricing, etc.
- 
- - **Module 5 - [Options Theory for Professional Trading](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%205_Options%20Theory%20for%20Professional%20Trading.pdf) | _25 Chapters_ |** An option is a contract where the price of the options is based on an underlying. Options contracts grant the buyer the right to buy the underlying without a compulsory obligation.
- 
- - **Module 6 - [Option Strategies](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%206_Option%20Strategies.pdf) | _14 Chapters_ |** The module covers various options strategies that can be built with a multi-dimensional approach based on Market trend involving Option Greeks, Risk-Return, etc.
- 
- - **Module 7 - [Markets & Taxation](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%207_Markets%20%26%20Taxation.pdf) | _7 Chapters_ |** As a trader in India, you should be informed of all the taxes that are levied on your investments and account. This module overlays the taxation countenance of Investing/Trading in the Markets. It also outlines the various essential topics like calculation of your turnover, how to prepare a balance sheet and the P&L statement, and further about how you can file your Income Tax Returns.
- 
- - **Module 8 - [Currency and Commodity Futures](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%208_Currency%20and%20Commodity%20Futures.pdf) | _19 Chapters_ |** This module covers the Currency,  MCX Commodity contract, and the Government Securities (GSec) traded in the Indian Markets.
- 
- - **Module 9 - [Risk Management & Trading Psychology](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%209_Risk%20Management%20%26%20Trading%20Psychology.pdf) | _16 Chapters_ |** The module covers the risk management aspect along with the psychology required for being consistent and profitable while trading.
- 
- - **Module 10 - [Trading Systems](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%2010_Trading%20Systems.pdf) | _16 Chapters_ |** Have you considered building your own Trading System? Well, then this module is for you. The major components of building a good trading system are input parameters and interpreting output alongside decision-making. In this module, we will learn about all the components and much more including the techniques and different types of Trading Systems.
- 
- - **Module 11 - [Personal Finance](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%2011_Personal%20Finance.pdf) | _30 Chapters_ |** Personal finance is an essential aspect of your financial life as it helps you achieve your short term and long term financial goals. This module encompasses the various aspects of personal finance such as retirement planning, Mutual funds, ETFs, Bonds, and goal-oriented investments.
+**For Students**  
+Use these resources as reference materials for understanding financial concepts, preparing for exams, and gaining practical insights into markets via Zerodha Varsity and Rupee Tales.
 
+**For Educators**  
+These materials may serve as supplementary teaching resources or case study examples for finance courses.
 
-## Magic Institute of Excellence (MIE)
+---
 
- >**_Presentation by Vishal Bhojani_**
-
- - **[Indian Financial System, Institutions & Markets](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Indian%20Financial%20System%2C%20Institutions%20%26%20Markets.pdf)**
- 
- - **[Foreign Portfolio Investment](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Foreign%20Portfolio%20Investment.pdf)**
- 
- - **[Equity](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Equity%20D.pdf)**
- 
- - **[Dividends](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Dividends.pdf)**
- 
- - **[Corporate Finance](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Corporate%20Finance.pdf)** 
-
- - **[Derivatives Forward and Futures](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Derivatives%20Forward%20and%20Futures.pdf)**
- 
- - **[Derivatives Options](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Derivatives%20Options.pdf)** 
- 
- - **[Sources of Finance](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Sources%20of%20Finance%20%26%20Capital%20Structure.pdf)**
- 
- - **[Finance Management Introduction](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Finance%20Management%20Introduction.pdf)** 
- 
- - **[Hedge Funds](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Hedge%20Funds.pdf)** 
- 
- - **[Money Markets](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Money%20Markets.pdf)** 
- 
- - **[VIVA Topics](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/FM%20VIVA%20TOPICS_25th%20March.pdf)**
-
+<!-- =========================================================================================
+                                      LICENSE SECTION
+     ========================================================================================= -->
 ## License
 
 This repository and all linked academic content are made available under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. See the [LICENSE](LICENSE) file for complete terms.
@@ -204,6 +288,48 @@ This repository and all linked academic content are made available under the **C
 
 ---
 
-<p align="center"> <b> 👉🏻 Subject as a part of the 8th Semester of Engineering @ University of Mumbai 👈🏻 </b> </p>
- 
-<p align="center"><a href='https://github.com/Amey-Thakur/COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</a></p>
+<!-- =========================================================================================
+                                      ABOUT SECTION
+     ========================================================================================= -->
+## About This Repository
+
+**Created & Maintained by:** [Amey Thakur](https://github.com/Amey-Thakur)  
+**Academic Journey:** Bachelor of Engineering in Computer Engineering (2018-2022)  
+**Institution:** [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
+**University:** [University of Mumbai](https://mu.ac.in/)
+
+This repository represents a comprehensive collection of study materials, reference books, and personal preparation notes curated during my academic journey.
+
+**Connect:** [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
+
+### Acknowledgments
+
+Grateful acknowledgment to [**Mega Satish**](https://github.com/msatmod) for her exceptional contribution to this repository through "The Wall" and "Mega Notes". Her comprehensive notes and research into financial topics became an invaluable resource. Her constant support, patience, and clarity throughout this journey made a real difference.
+
+Special thanks to **Vishal Bhojani** for the insightful presentations provided through the Magic Institute of Excellence (MIE).
+
+Grateful acknowledgment to **Karthik Rangappa** and **Zerodha Varsity** for their high-quality, open-access financial education resources, which have been referenced here for academic enrichment.
+
+---
+
+<!-- =========================================================================================
+                                      FOOTER SECTION
+     ========================================================================================= -->
+<div align="center">
+
+  <!-- Footer Navigation -->
+  [↑ Back to Top](#finance-management)
+
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [The Wall](#the-wall) &nbsp;·&nbsp; [Mega Notes](#mega-notes) &nbsp;·&nbsp; [The Rupee Tales](#the-rupee-tales) &nbsp;·&nbsp; [Zerodha Varsity](#zerodha-varsity) &nbsp;·&nbsp; [Magic Institute](#magic-institute-of-excellence) &nbsp;·&nbsp; [Internal Assessment Test](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+
+  <br>
+  
+  <br>
+
+  ### [🎓 Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+  
+  **Computer Engineering (B.E.) - University of Mumbai**
+  
+  *Semester-wise curriculum, laboratories, projects, and academic notes.*
+  
+</div>
