@@ -123,8 +123,6 @@ Comprehensive module-wise notes curated by Mega Satish, covering all essential t
 | 5 | [FM Module - 5](THE%20WALL/FM_Module-5.pdf) | Working Capital Management |
 | 6 | [FM Module - 6](THE%20WALL/FM_Module-6.pdf) | Financial Planning and Ratio Analysis |
 
-
-
 ---
 
 ### Mega's Notes
@@ -205,7 +203,6 @@ Comprehensive module-wise notes curated by Mega Satish, covering all essential t
 | 9 | **Risk Management** | Psychology, Consistency, Profitability (16 Chapters) | [View](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%209_Risk%20Management%20%26%20Trading%20Psychology.pdf) |
 | 10 | **Trading Systems** | Building Systems, Parameters, Analysis (16 Chapters) | [View](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%2010_Trading%20Systems.pdf) |
 | 11 | **Personal Finance** | Retirement, Mutual Funds, ETFs, Goals (30 Chapters) | [View](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%2011_Personal%20Finance.pdf) |
-
 
 ---
 
