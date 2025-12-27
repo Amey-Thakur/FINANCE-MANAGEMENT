@@ -163,6 +163,12 @@ Comprehensive module-wise notes curated by Mega Satish, covering all essential t
 **Finance for Kids** - A box set of 5 books introducing financial concepts to children by Varsity @ Zerodha.
 *Illustrations by Tarun Andrews, Authored by Karthik Rangappa.*
 
+<div align="center">
+
+[![The Rupee Tales](https://user-images.githubusercontent.com/54937357/150667752-a3e8a7f4-04ae-4e77-9c74-ffa309cd2714.png)](https://rupeetales.com/?c=varsity)
+
+</div>
+
 | Book | Title | Concept | Resource |
 |:---:|:---|:---|:---|
 | 1 | **Anu Learns To Save** | Savings | [Read Book](The%20Rupee%20Tales%20(Finance%20for%20Kids)%20-%20Karthik%20Rangappa%20Illustrations%20by%20Tarun%20Andrews/Book%201_Anu%20Learns%20To%20Save.pdf) |
@@ -170,8 +176,6 @@ Comprehensive module-wise notes curated by Mega Satish, covering all essential t
 | 3 | **Vishrambu's Bus Journey** | Taxes & Public Goods | [Read Book](The%20Rupee%20Tales%20(Finance%20for%20Kids)%20-%20Karthik%20Rangappa%20Illustrations%20by%20Tarun%20Andrews/Book%203_Vishrambu's%20Bus%20Journey.pdf) |
 | 4 | **One And A Half Stories** | Insurance | [Read Book](The%20Rupee%20Tales%20(Finance%20for%20Kids)%20-%20Karthik%20Rangappa%20Illustrations%20by%20Tarun%20Andrews/Book%204_One%20And%20A%20Half%20Stories.pdf) |
 | 5 | **The Cake Shop** | Stock Markets | [Read Book](The%20Rupee%20Tales%20(Finance%20for%20Kids)%20-%20Karthik%20Rangappa%20Illustrations%20by%20Tarun%20Andrews/Book%205_The%20Cake%20Shop.pdf) |
-
-> [![The Rupee Tales](https://user-images.githubusercontent.com/54937357/150667752-a3e8a7f4-04ae-4e77-9c74-ffa309cd2714.png)](https://rupeetales.com/?c=varsity)
 
 ---
 
