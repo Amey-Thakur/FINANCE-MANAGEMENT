@@ -182,7 +182,9 @@ Comprehensive module-wise notes curated by Mega Satish, covering all essential t
 
 <div align="center">
 
-[![Zerodha Varsity](https://user-images.githubusercontent.com/54937357/150668021-87bbd241-1212-4107-a3c5-aaec50490e48.png)](https://zerodha.com/varsity)
+<a href="https://zerodha.com/varsity">
+<img src="https://user-images.githubusercontent.com/54937357/150668021-87bbd241-1212-4107-a3c5-aaec50490e48.png" alt="Zerodha Varsity" width="400"/>
+</a>
 
 </div>
 
