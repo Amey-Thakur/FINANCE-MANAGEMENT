@@ -302,7 +302,7 @@ Course completion documentation:
 ## Syllabus
 
 > [**Official CBCGS Syllabus**](MU%20SEM%20VIII%20SYLLABUS.pdf)  
-> Complete Final Year Engineering syllabus from the University of Mumbai, including detailed course outcomes for Finance Management (ILO8022).
+> Complete Final Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for Finance Management.
 
 > [!IMPORTANT]
 > Always verify the latest syllabus details with the official University of Mumbai website, as curriculum updates may occur after this repository's archival date.
