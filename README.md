@@ -144,7 +144,7 @@ Comprehensive module-wise notes curated by Mega Satish, covering all essential t
 **Comprehensive module-wise notes curated by Mega Satish:**
 
 | # | Topic | Notes |
-|:-:|:---|:---|
+|:-:|:---|:-:|
 | 1 | Stocks Basic | [View](MEGA%20NOTES/1.%20Stocks%20Basic%20-%20FINANCE%20MANAGEMENT.pdf) |
 | 2 | Technical Analysis | [View](MEGA%20NOTES/2.%20Technical%20Analysis%20-%20FINANCE%20MANAGEMENT.pdf) |
 | 3 | Future Trading | [View](MEGA%20NOTES/3.%20Future%20Trading%20-%20FINANCE%20MANAGEMENT.pdf) |
@@ -169,7 +169,7 @@ Comprehensive module-wise notes curated by Mega Satish, covering all essential t
 **Finance for Kids** - A box set of 5 books introducing financial concepts to children by Varsity @ Zerodha. *Illustrations by Tarun Andrews, Authored by Karthik Rangappa.*
 
 | Book | Title | Concept | Resource |
-|:---:|:---|:---|:---|
+|:---:|:---|:---|:-:|
 | 1 | **Anu Learns To Save** | Savings | [Read Book](The%20Rupee%20Tales%20(Finance%20for%20Kids)%20-%20Karthik%20Rangappa%20Illustrations%20by%20Tarun%20Andrews/Book%201_Anu%20Learns%20To%20Save.pdf) |
 | 2 | **Mani's Money** | Banking | [Read Book](The%20Rupee%20Tales%20(Finance%20for%20Kids)%20-%20Karthik%20Rangappa%20Illustrations%20by%20Tarun%20Andrews/Book%202_Mani's%20Money.pdf) |
 | 3 | **Vishrambu's Bus Journey** | Taxes & Public Goods | [Read Book](The%20Rupee%20Tales%20(Finance%20for%20Kids)%20-%20Karthik%20Rangappa%20Illustrations%20by%20Tarun%20Andrews/Book%203_Vishrambu's%20Bus%20Journey.pdf) |
@@ -193,7 +193,7 @@ Comprehensive module-wise notes curated by Mega Satish, covering all essential t
 *Open stock market and financial education resource.*
 
 | # | Module | Topics Covered | Resource |
-|:-:|:---|:---|:---|
+|:-:|:---|:---|:-:|
 | 1 | **Introduction to Stock Markets** | Fundamentals, Functioning, Intermediaries (15 Chapters) | [View](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%201_Introduction%20to%20Stock%20Markets.pdf) |
 | 2 | **Technical Analysis** | Patterns, Indicators, Theories (22 Chapters) | [View](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%202_Technical%20Analysis.pdf) |
 | 3 | **Fundamental Analysis** | Equity research, Financial statements, Ratios (16 Chapters) | [View](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%203_Fundamental%20Analysis.pdf) |
@@ -214,7 +214,7 @@ Comprehensive module-wise notes curated by Mega Satish, covering all essential t
 **Presentations by Vishal Bhojani**
 
 | # | Topic | Resource |
-|:-:|:---|:---|
+|:-:|:---|:-:|
 | 1 | Indian Financial System | [View Presentation](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Indian%20Financial%20System%2C%20Institutions%20%26%20Markets.pdf) |
 | 2 | Foreign Portfolio Investment | [View Presentation](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Foreign%20Portfolio%20Investment.pdf) |
 | 3 | Equity | [View Presentation](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Equity%20D.pdf) |
