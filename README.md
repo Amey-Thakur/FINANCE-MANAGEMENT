@@ -123,8 +123,7 @@ Comprehensive module-wise notes curated by Mega Satish, covering all essential t
 | 5 | [FM Module - 5](THE%20WALL/FM_Module-5.pdf) | Working Capital Management |
 | 6 | [FM Module - 6](THE%20WALL/FM_Module-6.pdf) | Financial Planning and Ratio Analysis |
 
-> [!NOTE]
-> **COVID-19 Impact**: This coursework was completed during the COVID-19 pandemic in 2022. Due to the nationwide lockdown and the sudden transition to online learning, several planned laboratory sessions and collaborative note-taking activities could not be carried out as originally intended. Despite these challenges, efforts were made to adapt and preserve as much work as possible.
+
 
 ---
 
