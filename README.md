@@ -314,13 +314,16 @@ Course completion documentation:
      ========================================================================================= -->
 ## Usage Guidelines
 
-This repository is openly shared to support learning and financial literacy.
+This repository is openly shared to support learning and knowledge exchange across the academic community.
 
 **For Students**  
-Use these resources as reference materials for understanding financial concepts, preparing for exams, and gaining practical insights into markets via Zerodha Varsity and Rupee Tales.
+Use these resources as reference materials for understanding Finance Management concepts, practicing financial analysis, and preparing for examinations. All content is organized for self-paced learning.
 
 **For Educators**  
-These materials may serve as supplementary teaching resources or case study examples for finance courses.
+These materials may serve as curriculum references, case study examples, or supplementary teaching resources. Attribution is appreciated when utilizing content.
+
+**For Researchers**  
+The documentation and organization may provide insights into academic resource curation and educational content structuring.
 
 ---
 
