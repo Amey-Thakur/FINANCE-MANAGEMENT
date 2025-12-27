@@ -371,7 +371,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
   <!-- Footer Navigation -->
   [↑ Back to Top](#finance-management)
 
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [The Wall](#the-wall) &nbsp;·&nbsp; [Mega's Notes](#megas-notes) &nbsp;·&nbsp; [Rupee Tales](#the-rupee-tales) &nbsp;·&nbsp; [Zerodha](#zerodha-varsity) &nbsp;·&nbsp; [MIE](#magic-institute-of-excellence) &nbsp;·&nbsp; [IAT](#internal-assessment-test) &nbsp;·&nbsp; [Exam](#semester-exam) &nbsp;·&nbsp; [Submission](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [The Wall](#the-wall) &nbsp;·&nbsp; [Mega's Notes](#megas-notes) &nbsp;·&nbsp; [The Rupee Tales](#the-rupee-tales) &nbsp;·&nbsp; [Zerodha Varsity](#zerodha-varsity) &nbsp;·&nbsp; [Magic Institute](#magic-institute-of-excellence) &nbsp;·&nbsp; [IAT](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   ---
 
