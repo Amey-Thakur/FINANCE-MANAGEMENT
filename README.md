@@ -189,6 +189,7 @@ Comprehensive module-wise notes curated by Mega Satish, covering all essential t
 </div>
 
 **Financial Education by Karthik Rangappa**
+
 *Open stock market and financial education resource.*
 
 | # | Module | Topics Covered | Resource |
