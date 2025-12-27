@@ -42,6 +42,21 @@ The curriculum encompasses key domains in Finance:
 - **Sources of Finance**: Equity, debt, and hybrid instruments.
 - **Financial Planning**: Ratio analysis and financial statement interpretation.
 
+### Repository Purpose
+
+This repository represents a curated collection of study materials, reference books, lab experiments, and personal preparation notes compiled during my academic journey. The primary motivation for creating and maintaining this archive is simple yet profound: **to preserve knowledge for continuous learning and future reference.**
+
+As an engineering student, understanding financial management is crucial for making informed economic decisions, analyzing market trends, and developing a strong financial acumen. This repository serves as my intellectual reference point: a resource I can return to for reviewing concepts, methodologies, and financial strategies.
+
+**Why this repository exists:**
+
+- **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
+- **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental concepts.
+- **Academic Documentation**: To authentically document my learning journey through Finance Management.
+- **Community Contribution**: To share these resources with students and learners who may benefit from them.
+
+All materials in this repository were gathered, organized, and documented by me during my undergraduate studies (2018-2022) as part of my coursework and exam preparation.
+
 ---
 
 <!-- =========================================================================================
