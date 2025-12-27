@@ -215,18 +215,18 @@ Comprehensive module-wise notes curated by Mega Satish, covering all essential t
 
 | # | Topic | Resource |
 |:-:|:---|:-:|
-| 1 | Indian Financial System | [View Presentation](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Indian%20Financial%20System%2C%20Institutions%20%26%20Markets.pdf) |
-| 2 | Foreign Portfolio Investment | [View Presentation](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Foreign%20Portfolio%20Investment.pdf) |
-| 3 | Equity | [View Presentation](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Equity%20D.pdf) |
-| 4 | Dividends | [View Presentation](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Dividends.pdf) |
-| 5 | Corporate Finance | [View Presentation](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Corporate%20Finance.pdf) |
-| 6 | Derivatives (Forward & Futures) | [View Presentation](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Derivatives%20Forward%20and%20Futures.pdf) |
-| 7 | Derivatives (Options) | [View Presentation](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Derivatives%20Options.pdf) |
-| 8 | Sources of Finance | [View Presentation](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Sources%20of%20Finance%20%26%20Capital%20Structure.pdf) |
-| 9 | Finance Management Intro | [View Presentation](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Finance%20Management%20Introduction.pdf) |
-| 10 | Hedge Funds | [View Presentation](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Hedge%20Funds.pdf) |
-| 11 | Money Markets | [View Presentation](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Money%20Markets.pdf) |
-| 12 | Viva Topics | [View Topics](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/FM%20VIVA%20TOPICS_25th%20March.pdf) |
+| 1 | Indian Financial System | [View](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Indian%20Financial%20System%2C%20Institutions%20%26%20Markets.pdf) |
+| 2 | Foreign Portfolio Investment | [View](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Foreign%20Portfolio%20Investment.pdf) |
+| 3 | Equity | [View](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Equity%20D.pdf) |
+| 4 | Dividends | [View](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Dividends.pdf) |
+| 5 | Corporate Finance | [View](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Corporate%20Finance.pdf) |
+| 6 | Derivatives (Forward & Futures) | [View](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Derivatives%20Forward%20and%20Futures.pdf) |
+| 7 | Derivatives (Options) | [View](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Derivatives%20Options.pdf) |
+| 8 | Sources of Finance | [View](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Sources%20of%20Finance%20%26%20Capital%20Structure.pdf) |
+| 9 | Finance Management Intro | [View](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Finance%20Management%20Introduction.pdf) |
+| 10 | Hedge Funds | [View](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Hedge%20Funds.pdf) |
+| 11 | Money Markets | [View](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/Money%20Markets.pdf) |
+| 12 | Viva Topics | [View](Magic%20Institute%20of%20Excellence%20(MIE)%20-%20Vishal%20Bhojani/FM%20VIVA%20TOPICS_25th%20March.pdf) |
 
 ---
 
