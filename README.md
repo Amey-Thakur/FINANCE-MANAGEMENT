@@ -255,7 +255,7 @@ Internal assessment evaluations conducted during the course:
 |:-:|:---|:---|
 | 1 | [Module 1 & 6](IAT-1/Finance_Management.pdf) | Personal Exam Preparation Notes |
 | 2 | [Module 2](IAT-1/FM_Module-2.pdf) | Personal Exam Preparation Notes |
-| 3 | [Important Questions](IAT-2/FM_IAT-2.pdf) | Key preparation questions for IAT-2 |
+| 3 | [Important Questions](IAT-2/FM_IAT-2.pdf) | Personal Exam Preparation Notes |
 | 4 | [FM Numericals](IAT-2/FM_Numericals.pdf) | Numerical practice problems |
 | 5 | [FM IAT-2 Notes](IAT-2/FM%20UT%202.pdf) | Comprehensive IAT-2 notes |
 
