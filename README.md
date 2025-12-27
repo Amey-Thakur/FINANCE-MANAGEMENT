@@ -349,17 +349,17 @@ This repository and all linked academic content are made available under the **C
 **Institution:** [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University:** [University of Mumbai](https://mu.ac.in/)
 
-This repository represents a comprehensive collection of study materials, reference books, and personal preparation notes curated during my academic journey.
+This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Finance Management.
 
 **Connect:** [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
 
 ### Acknowledgments
 
-Grateful acknowledgment to [**Mega Satish**](https://github.com/msatmod) for her exceptional contribution to this repository through "The Wall" and "Mega Notes". Her comprehensive notes and research into financial topics became an invaluable resource. Her constant support, patience, and clarity throughout this journey made a real difference.
+Grateful acknowledgment to [Mega Satish](https://github.com/msatmod) for her exceptional contribution to this repository through "The Wall" - comprehensive module-wise notes that became an invaluable resource for understanding complex Finance Management concepts. Her constant support, patience, and clarity throughout this journey made a real difference. Learning alongside her was transformative, not only because she explained concepts so clearly, but because she truly cared about understanding them together. Her thoughtful approach to teaching, openness to discussion, and steady encouragement turned challenges into meaningful learning moments. This work reflects the growth that came from learning side by side. Thank you, Mega, for everything you shared and taught along the way.
 
-Special thanks to **Vishal Bhojani** for the insightful presentations provided through the Magic Institute of Excellence (MIE).
+Grateful acknowledgment to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Finance Management. Their expertise and support helped develop a strong understanding of financial concepts and market dynamics.
 
-Grateful acknowledgment to **Karthik Rangappa** and **Zerodha Varsity** for their high-quality, open-access financial education resources, which have been referenced here for academic enrichment.
+Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
 ---
 
