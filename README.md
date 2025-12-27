@@ -143,18 +143,18 @@ Comprehensive module-wise notes curated by Mega Satish, covering all essential t
 
 **Comprehensive module-wise notes curated by Mega Satish:**
 
-| # | Topic | Resource |
+| # | Topic | Notes |
 |:-:|:---|:---|
-| 1 | Stocks Basic | [View Notes](MEGA%20NOTES/1.%20Stocks%20Basic%20-%20FINANCE%20MANAGEMENT.pdf) |
-| 2 | Technical Analysis | [View Notes](MEGA%20NOTES/2.%20Technical%20Analysis%20-%20FINANCE%20MANAGEMENT.pdf) |
-| 3 | Future Trading | [View Notes](MEGA%20NOTES/3.%20Future%20Trading%20-%20FINANCE%20MANAGEMENT.pdf) |
-| 4 | Options Theory | [View Notes](MEGA%20NOTES/4.%20Options%20Theory%20for%20Professional%20Trading%20and%20Options%20Strategies%20-%20FINANCE%20MANAGEMENT.pdf) |
-| 5 | Market & Taxation | [View Notes](MEGA%20NOTES/5.%20Market%20%26%20Taxation%20-%20FINANCE%20MANAGEMENT.pdf) |
-| 6 | Risk Management | [View Notes](MEGA%20NOTES/6.%20Risk%20Management%20and%20Trading%20Psychology%20-%20FINANCE%20MANAGEMENT.pdf) |
-| 7 | Personal Finance | [View Notes](MEGA%20NOTES/7.%20Personal%20Finance%20-%20FINANCE%20MANAGEMENT.pdf) |
-| 8 | Fundamental Analysis | [View Notes](MEGA%20NOTES/8.%20Fundamental%20Analysis%20-%20FINANCE%20MANAGEMENT.pdf) |
-| 9 | Investment Banking | [View Notes](MEGA%20NOTES/9.%20Dividend%20and%20Investment%20Banking%20-%20FINANCE%20MANAGEMENT.pdf) |
-| 10 | Cryptocurrency | [View Notes](MEGA%20NOTES/10.%20Cryptocurrency%20-%20FINANCE%20MANAGEMENT.pdf) |
+| 1 | Stocks Basic | [View](MEGA%20NOTES/1.%20Stocks%20Basic%20-%20FINANCE%20MANAGEMENT.pdf) |
+| 2 | Technical Analysis | [View](MEGA%20NOTES/2.%20Technical%20Analysis%20-%20FINANCE%20MANAGEMENT.pdf) |
+| 3 | Future Trading | [View](MEGA%20NOTES/3.%20Future%20Trading%20-%20FINANCE%20MANAGEMENT.pdf) |
+| 4 | Options Theory | [View](MEGA%20NOTES/4.%20Options%20Theory%20for%20Professional%20Trading%20and%20Options%20Strategies%20-%20FINANCE%20MANAGEMENT.pdf) |
+| 5 | Market & Taxation | [View](MEGA%20NOTES/5.%20Market%20%26%20Taxation%20-%20FINANCE%20MANAGEMENT.pdf) |
+| 6 | Risk Management | [View](MEGA%20NOTES/6.%20Risk%20Management%20and%20Trading%20Psychology%20-%20FINANCE%20MANAGEMENT.pdf) |
+| 7 | Personal Finance | [View](MEGA%20NOTES/7.%20Personal%20Finance%20-%20FINANCE%20MANAGEMENT.pdf) |
+| 8 | Fundamental Analysis | [View](MEGA%20NOTES/8.%20Fundamental%20Analysis%20-%20FINANCE%20MANAGEMENT.pdf) |
+| 9 | Investment Banking | [View](MEGA%20NOTES/9.%20Dividend%20and%20Investment%20Banking%20-%20FINANCE%20MANAGEMENT.pdf) |
+| 10 | Cryptocurrency | [View](MEGA%20NOTES/10.%20Cryptocurrency%20-%20FINANCE%20MANAGEMENT.pdf) |
 
 ---
 
