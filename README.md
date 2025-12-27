@@ -180,24 +180,29 @@ Comprehensive module-wise notes curated by Mega Satish, covering all essential t
 
 ### Zerodha Varsity
 
+<div align="center">
+
+[![Zerodha Varsity](https://user-images.githubusercontent.com/54937357/150668021-87bbd241-1212-4107-a3c5-aaec50490e48.png)](https://zerodha.com/varsity)
+
+</div>
+
 **Financial Education by Karthik Rangappa**
 *Open stock market and financial education resource.*
 
 | # | Module | Topics Covered | Resource |
 |:-:|:---|:---|:---|
-| 1 | **Introduction to Stock Markets** | Fundamentals, Functioning, Intermediaries (15 Chapters) | [View Module](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%201_Introduction%20to%20Stock%20Markets.pdf) |
-| 2 | **Technical Analysis** | Patterns, Indicators, Theories (22 Chapters) | [View Module](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%202_Technical%20Analysis.pdf) |
-| 3 | **Fundamental Analysis** | Equity research, Financial statements, Ratios (16 Chapters) | [View Module](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%203_Fundamental%20Analysis.pdf) |
-| 4 | **Futures Trading** | Derivatives, Margins, Leverage, Pricing (13 Chapters) | [View Module](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%204_Futures%20Trading.pdf) |
-| 5 | **Options Theory** | Professional Trading, Contracts (25 Chapters) | [View Module](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%205_Options%20Theory%20for%20Professional%20Trading.pdf) |
-| 6 | **Option Strategies** | Greeks, Risk-Return, Market Trends (14 Chapters) | [View Module](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%206_Option%20Strategies.pdf) |
-| 7 | **Markets & Taxation** | Investing Taxation, Turnover, Filing ITR (7 Chapters) | [View Module](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%207_Markets%20%26%20Taxation.pdf) |
-| 8 | **Currency & Commodity** | Forexc, MCX, GSec (19 Chapters) | [View Module](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%208_Currency%20and%20Commodity%20Futures.pdf) |
-| 9 | **Risk Management** | Psychology, Consistency, Profitability (16 Chapters) | [View Module](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%209_Risk%20Management%20%26%20Trading%20Psychology.pdf) |
-| 10 | **Trading Systems** | Building Systems, Parameters, Analysis (16 Chapters) | [View Module](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%2010_Trading%20Systems.pdf) |
-| 11 | **Personal Finance** | Retirement, Mutual Funds, ETFs, Goals (30 Chapters) | [View Module](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%2011_Personal%20Finance.pdf) |
+| 1 | **Introduction to Stock Markets** | Fundamentals, Functioning, Intermediaries (15 Chapters) | [View](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%201_Introduction%20to%20Stock%20Markets.pdf) |
+| 2 | **Technical Analysis** | Patterns, Indicators, Theories (22 Chapters) | [View](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%202_Technical%20Analysis.pdf) |
+| 3 | **Fundamental Analysis** | Equity research, Financial statements, Ratios (16 Chapters) | [View](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%203_Fundamental%20Analysis.pdf) |
+| 4 | **Futures Trading** | Derivatives, Margins, Leverage, Pricing (13 Chapters) | [View](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%204_Futures%20Trading.pdf) |
+| 5 | **Options Theory** | Professional Trading, Contracts (25 Chapters) | [View](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%205_Options%20Theory%20for%20Professional%20Trading.pdf) |
+| 6 | **Option Strategies** | Greeks, Risk-Return, Market Trends (14 Chapters) | [View](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%206_Option%20Strategies.pdf) |
+| 7 | **Markets & Taxation** | Investing Taxation, Turnover, Filing ITR (7 Chapters) | [View](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%207_Markets%20%26%20Taxation.pdf) |
+| 8 | **Currency & Commodity** | Forexc, MCX, GSec (19 Chapters) | [View](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%208_Currency%20and%20Commodity%20Futures.pdf) |
+| 9 | **Risk Management** | Psychology, Consistency, Profitability (16 Chapters) | [View](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%209_Risk%20Management%20%26%20Trading%20Psychology.pdf) |
+| 10 | **Trading Systems** | Building Systems, Parameters, Analysis (16 Chapters) | [View](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%2010_Trading%20Systems.pdf) |
+| 11 | **Personal Finance** | Retirement, Mutual Funds, ETFs, Goals (30 Chapters) | [View](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%2011_Personal%20Finance.pdf) |
 
-> [![Zerodha Varsity](https://user-images.githubusercontent.com/54937357/150668021-87bbd241-1212-4107-a3c5-aaec50490e48.png)](https://zerodha.com/varsity)
 
 ---
 
