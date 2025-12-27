@@ -112,7 +112,7 @@ This collection includes **comprehensive reference materials** covering all majo
 
 ### The Wall - Notes Authored by [MEGA SATISH](https://github.com/msatmod)
 
-Comprehensive module-wise notes curated by Mega Satish:
+Comprehensive module-wise notes curated by Mega Satish, covering all essential topics:
 
 | Module | Resource | Topics Covered |
 |:---:|:---|:---|
