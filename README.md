@@ -266,14 +266,19 @@ Internal assessment evaluations conducted during the course:
      ========================================================================================= -->
 ## Semester Exam
 
-Final semester examination resources:
+Final semester examination submission:
+
+| # | Resource | Description | Date |
+|:-:|:---|:---|:-:|
+| 1 | [Question Paper](Semester%20Exam/Fm.pdf) | Official University Question Paper | May 30, 2022 |
+
+#### Additional Resources:
 
 | # | Resource | Description |
 |:-:|:---|:---|
-| 1 | [Question Paper](Semester%20Exam/Fm.pdf) | Official Semester Question Paper |
-| 2 | [Question Bank](Semester%20Exam/FM_Question_Bank.pdf) | Comprehensive Question Bank |
-| 3 | [MCQ Bank](Semester%20Exam/FM%20QB%20MCQs.pdf) | Multiple Choice Questions |
-| 4 | [Timetable](Semester%20Exam/Semester%208%20Timetable.pdf) | Semester 8 Examination Schedule |
+| 1 | [Question Bank](Semester%20Exam/FM_Question_Bank.pdf) | Personal Exam Preparation Notes |
+| 2 | [MCQs](Semester%20Exam/FM%20QB%20MCQs.pdf) | MCQ Question Bank with Answers |
+| 3 | [Timetable](Semester%20Exam/Semester%208%20Timetable.pdf) | Semester 8 examination schedule |
 
 ---
 
