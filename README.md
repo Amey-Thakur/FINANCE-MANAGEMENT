@@ -277,8 +277,9 @@ Final semester examination submission:
 | # | Resource | Description |
 |:-:|:---|:---|
 | 1 | [Question Bank](Semester%20Exam/FM_Question_Bank.pdf) | Personal Exam Preparation Notes |
-| 2 | [MCQs](Semester%20Exam/FM%20QB%20MCQs.pdf) | MCQ Question Bank with Answers |
-| 3 | [Timetable](Semester%20Exam/Semester%208%20Timetable.pdf) | Semester 8 examination schedule |
+| 2 | [Karan Notes](Semester%20Exam/FM%20Karan%20Notes.pdf) | Exam preparation notes by Karan |
+| 3 | [MCQs](Semester%20Exam/FM%20QB%20MCQs.pdf) | MCQ Question Bank with Answers |
+| 4 | [Timetable](Semester%20Exam/Semester%208%20Timetable.pdf) | Semester 8 examination schedule |
 
 ---
 
