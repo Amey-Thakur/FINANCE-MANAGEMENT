@@ -127,9 +127,21 @@ Comprehensive module-wise notes curated by Mega Satish, covering all essential t
 
 ---
 
-### Mega Notes
+### Mega's Notes
 
-Advanced financial topics authored by **[Mega Satish](https://github.com/msatmod)**:
+<div align="center">
+
+<a href="https://github.com/msatmod">
+<img src="THE%20WALL/Mega/Mega.png" alt="Mega Satish" width="150" height="150"/><br/>
+<b>Mega Satish</b>
+</a>
+
+</div>
+
+> [!IMPORTANT]
+> 💝 **Special Thanks**: A heartfelt thank you to Mega for her constant support, patience, and clarity throughout this journey. Learning alongside her made a real difference, not only because she explained concepts so clearly, but because she truly cared about understanding them together. Her thoughtful approach to teaching, openness to discussion, and steady encouragement turned challenges into meaningful learning moments. This work reflects the growth that came from learning side by side. Thank you, Mega, for everything you shared and taught along the way.
+
+**Comprehensive module-wise notes curated by Mega Satish:**
 
 | # | Topic | Resource |
 |:-:|:---|:---|
