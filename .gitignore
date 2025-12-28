@@ -1,0 +1,50 @@
+# ALL REPOSITORIES
+# ----------------
+# General
+.DS_Store
+Thumbs.db
+*.swp
+*.log
+*.tmp
+*.bak
+*~
+
+# Windows
+desktop.ini
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains
+.idea/
+*.iml
+
+# Office Temporary Files
+~$*.doc
+~$*.docx
+~$*.ppt
+~$*.pptx
+~$*.xls
+~$*.xlsx
+
+# LaTeX (if used)
+*.aux
+*.bbl
+*.blg
+*.idx
+*.ind
+*.lof
+*.lot
+*.out
+*.toc
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Git
+*.orig

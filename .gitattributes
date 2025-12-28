@@ -1,0 +1,50 @@
+# Auto detect text files and perform LF normalization
+* text=auto eol=lf
+
+# Standard to msysgit
+*.doc	 diff=astextplain
+*.DOC	 diff=astextplain
+*.docx diff=astextplain
+*.DOCX diff=astextplain
+*.dot  diff=astextplain
+*.DOT  diff=astextplain
+*.pdf  diff=astextplain
+*.PDF	 diff=astextplain
+*.rtf	 diff=astextplain
+*.RTF	 diff=astextplain
+*.pptx diff=astextplain
+*.PPTX diff=astextplain
+*.ppt  diff=astextplain
+*.PPT  diff=astextplain
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.bmp binary
+*.tif binary
+*.tiff binary
+
+# Office/Spreadsheet Binary files
+*.xlsx binary
+*.xls  binary
+*.xlsm binary
+*.xlsb binary
+
+# Archives
+*.gz binary
+*.zip binary
+*.7z binary
+*.rar binary
+*.tar binary
+*.iso binary
+
+# Source Codes (for future use)
+*.py    text diff=python
+*.ipynb text
+*.sql   text
+*.txt   text
+*.md    text
+*.csv   text
