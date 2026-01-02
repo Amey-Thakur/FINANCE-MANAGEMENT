@@ -1,27 +1,21 @@
-# Auto detect text files and perform LF normalization
-* text=auto eol=lf
+# Finance Management - Academic Repository
+# Professional .gitattributes for scholarly archiving
 
-# Standard to msysgit
-*.doc	 diff=astextplain
-*.DOC	 diff=astextplain
-*.docx diff=astextplain
-*.DOCX diff=astextplain
-*.dot  diff=astextplain
-*.DOT  diff=astextplain
-*.pdf  diff=astextplain
-*.PDF	 diff=astextplain
-*.rtf	 diff=astextplain
-*.RTF	 diff=astextplain
-*.pptx diff=astextplain
-*.PPTX diff=astextplain
-*.ppt  diff=astextplain
-*.PPT  diff=astextplain
+# Set default behavior to automatically normalize line endings
+* text=auto
 
-# Binary files
+# Ensure text and source files use LF on checkout
+*.md text eol=lf
+*.txt text eol=lf
+*.cff text eol=lf
+LICENSE text eol=lf
+
+# Explicitly mark binary files
 *.png binary
 *.jpg binary
 *.jpeg binary
 *.gif binary
+*.pdf binary
 *.ico binary
 *.bmp binary
 *.tif binary
@@ -33,18 +27,14 @@
 *.xlsm binary
 *.xlsb binary
 
-# Archives
-*.gz binary
-*.zip binary
-*.7z binary
-*.rar binary
-*.tar binary
-*.iso binary
+# Office Documents
+*.doc diff=astextplain
+*.docx diff=astextplain
+*.ppt diff=astextplain
+*.pptx diff=astextplain
+*.xls diff=astextplain
+*.xlsx diff=astextplain
 
-# Source Codes (for future use)
-*.py    text diff=python
-*.ipynb text
-*.sql   text
-*.txt   text
-*.md    text
-*.csv   text
+# Improve diff handling
+*.md text diff=markdown
+*.csv text
