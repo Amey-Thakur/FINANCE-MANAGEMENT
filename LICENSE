@@ -207,7 +207,7 @@ Section 2 -- Scope.
         3. To the extent possible, the Licensor waives any right to
            collect royalties from You for the exercise of the Licensed
            Rights, whether directly or through a collecting society
- under any voluntary or waivable statutory or compulsory
+           under any voluntary or waivable statutory or compulsory
            licensing scheme. In all other cases the Licensor expressly
            reserves any right to collect such royalties.
 
@@ -295,7 +295,7 @@ Section 5 -- Disclaimer of Warranties and Limitation of Liability.
      IMPLIED, STATUTORY, OR OTHER. THIS INCLUDES, WITHOUT LIMITATION,
      WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR
      PURPOSE, NON-INFRINGEMENT, ABSENCE OF LATENT OR OTHER DEFECTS,
- accuracy, OR THE PRESENCE OR ABSENCE OF ERRORS, WHETHER OR NOT
+     ACCURACY, OR THE PRESENCE OR ABSENCE OF ERRORS, WHETHER OR NOT
      KNOWN OR DISCOVERABLE. WHERE DISCLAIMERS OF WARRANTIES ARE NOT
      ALLOWED IN FULL OR IN PART, THIS DISCLAIMER MAY NOT APPLY TO YOU.
 
@@ -320,7 +320,28 @@ Section 6 -- Term and Termination.
   a. This Public License applies for the term of the Copyright and
      Similar Rights licensed here. However, if You fail to comply with
      this Public License, then Your rights under this Public License
- terminate automatically.
+     terminate automatically.
+
+  b. Where Your right to use the Licensed Material has terminated under
+     Section 6(a), it reinstates:
+
+        1. automatically as of the date the violation is cured, provided
+           it is cured within 30 days of Your discovery of the
+           violation; or
+
+        2. upon express reinstatement by the Licensor.
+
+     For the avoidance of doubt, this Section 6(b) does not affect any
+     right the Licensor may have to seek remedies for Your violations
+     of this Public License.
+
+  c. For the avoidance of doubt, the Licensor may also offer the
+     Licensed Material under separate terms or conditions or stop
+     distributing the Licensed Material at any time; however, doing so
+     will not terminate this Public License.
+
+  d. Sections 1, 5, 6, 7, and 8 survive termination of this Public
+     License.
 
 
 Section 7 -- Other Terms and Conditions.
@@ -348,7 +369,7 @@ Section 8 -- Interpretation.
      conditions.
 
   c. No term or condition of this Public License will be waived and no
- failure to comply consented to unless expressly agreed to by the
+     failure to comply consented to unless expressly agreed to by the
      Licensor.
 
   d. Nothing in this Public License constitutes or may be interpreted
