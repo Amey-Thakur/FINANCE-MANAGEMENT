@@ -119,7 +119,7 @@ Comprehensive module-wise notes curated by Mega Satish, covering all essential t
 
 
 
-**Comprehensive module-wise notes curated by [Mega Satish](https://github.com/msatmod):**
+**Comprehensive module-wise notes curated by Mega Satish:**
 
 | # | Topic | Notes |
 |:-:|:---|:-:|
