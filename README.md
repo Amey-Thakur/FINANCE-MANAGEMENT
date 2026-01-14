@@ -88,27 +88,10 @@ This collection includes **comprehensive reference materials** covering all majo
 
 **Collaborative Study Notes by Amey & Mega**
 
-<table>
-<tr>
-<td align="center">
-<a href="https://github.com/Amey-Thakur">
-<img src="https://github.com/Amey-Thakur.png" alt="Amey Thakur" width="150" height="150"/><br/>
-<b>Amey Thakur</b>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/msatmod">
-<img src="THE%20WALL/Mega/Mega.png" alt="Mega Satish" width="150" height="150"/><br/>
-<b>Mega Satish</b>
-</a>
-</td>
-</tr>
-</table>
+| <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-green.svg)](https://orcid.org/0000-0001-5644-1575) | <a href="https://github.com/msatmod"><img src="THE%20WALL/Mega/Mega.png" width="150" height="150" alt="Mega Satish"></a><br>[**Mega Satish**](https://github.com/msatmod)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1844--9557-green.svg)](https://orcid.org/0000-0002-1844-9557) |
+| :---: | :---: |
 
 </div>
-
-> [!IMPORTANT]
-> 💝 **Special Thanks**: A heartfelt thank you to Mega for her constant support, patience, and clarity throughout this journey. Learning alongside her made a real difference, not only because she explained concepts so clearly, but because she truly cared about understanding them together. Her thoughtful approach to teaching, openness to discussion, and steady encouragement turned challenges into meaningful learning moments. This work reflects the growth that came from learning side by side. Thank you, Mega, for everything you shared and taught along the way.
 
 ### The Wall - Notes Authored by [MEGA SATISH](https://github.com/msatmod)
 
@@ -136,8 +119,7 @@ Comprehensive module-wise notes curated by Mega Satish, covering all essential t
 
 </div>
 
-> [!IMPORTANT]
-> 💝 **Special Thanks**: A heartfelt thank you to Mega for her constant support, patience, and clarity throughout this journey. Learning alongside her made a real difference, not only because she explained concepts so clearly, but because she truly cared about understanding them together. Her thoughtful approach to teaching, openness to discussion, and steady encouragement turned challenges into meaningful learning moments. This work reflects the growth that came from learning side by side. Thank you, Mega, for everything you shared and taught along the way.
+
 
 **Comprehensive module-wise notes curated by Mega Satish:**
 
@@ -234,19 +216,19 @@ Comprehensive module-wise notes curated by Mega Satish, covering all essential t
 
 Internal assessment evaluations conducted during the course:
 
-#### IAT - 1 · February 4, 2022
+### IAT - 1 · February 4, 2022
 
 | # | Resource | Description |
 |:-:|:---|:---|
 | 1 | [Question Paper](IAT-1/FM%20IAT-1%20Question%20Paper.pdf) | FM Internal Assessment Test 1 Question Paper |
 
-#### IAT - 2 · March 20, 2022
+### IAT - 2 · March 20, 2022
 
 | # | Resource | Description |
 |:-:|:---|:---|
 | 1 | [Question Paper](IAT-2/FM_IAT-2_Question_Paper.pdf) | FM Internal Assessment Test 2 Question Paper |
 
-#### Additional Resources:
+**Additional Resources:**
 
 | # | Resource | Description |
 |:-:|:---|:---|
@@ -269,7 +251,7 @@ Final semester examination submission:
 |:-:|:---|:---|:-:|
 | 1 | [Question Paper](Semester%20Exam/Fm.pdf) | Official University Question Paper | May 30, 2022 |
 
-#### Additional Resources:
+**Additional Resources:**
 
 | # | Resource | Description |
 |:-:|:---|:---|
@@ -348,7 +330,7 @@ This repository and all linked academic content are made available under the **C
 
 This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Finance Management.
 
-**Connect:** [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
+**Connect:** [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
 ### Acknowledgments
 
