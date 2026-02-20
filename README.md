@@ -51,7 +51,7 @@ As an engineering student, understanding financial management is crucial for mak
 **Why this repository exists:**
 
 - **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
-- **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental concepts.
+- **Continuous Learning**: To support lifelong learning by enabling easy revisitation of Finance concepts.
 - **Academic Documentation**: To authentically document my learning journey through Finance Management.
 - **Community Contribution**: To share these resources with students and learners who may benefit from them.
 
