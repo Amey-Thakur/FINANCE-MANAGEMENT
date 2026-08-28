@@ -165,17 +165,17 @@ Comprehensive module-wise notes curated by Mega Satish, covering all essential t
 <img src="https://user-images.githubusercontent.com/54937357/150668021-87bbd241-1212-4107-a3c5-aaec50490e48.png" alt="Zerodha Varsity" width="400"/>
 </a>
 
-</div>
-
 **Financial Education by Karthik Rangappa**
 
 *Open stock market and financial education resource.*
 
-<div align="center">
-
 [![Zerodha Varsity](https://img.shields.io/badge/Zerodha%20Varsity-17%20Modules-77b4f2.svg)](https://zerodha.com/varsity/modules/)
 
 </div>
+
+> [!TIP]
+> Module names open the PDF in GitHub's viewer. **Download** saves the file directly.
+> **Read** opens the module on Varsity, where every chapter is free.
 
 | # | Module | Topics Covered | Chapters | Download | Varsity |
 |:-:|:---|:---|:-:|:-:|:-:|
@@ -196,8 +196,6 @@ Comprehensive module-wise notes curated by Mega Satish, covering all essential t
 | 15 | **Sector Analysis** | Sector characteristics, Market forces, Stock picking | 17 | &mdash; | [Read](https://zerodha.com/varsity/module/sector-analysis/) |
 | 16 | **Social Stock Exchanges (SSEs)** | Social enterprises, Donors, Listing framework | 4 | &mdash; | [Read](https://zerodha.com/varsity/module/social-stock-exchanges-sses/) |
 | 17 | **NPS: National Pension System** | Retirement, Contributions, Product suitability | 9 | &mdash; | [Read](https://zerodha.com/varsity/module/national-pension-scheme/) |
-
-*Module names open the PDF in GitHub&rsquo;s viewer. **Download** saves the file directly. **Read** opens the module on Varsity, where every chapter is free.*
 
 ---
 
