@@ -171,19 +171,31 @@ Comprehensive module-wise notes curated by Mega Satish, covering all essential t
 
 *Open stock market and financial education resource.*
 
-| # | Module | Topics Covered |
-|:-:|:---|:---|
-| 1 | [**Introduction to Stock Markets**](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%201_Introduction%20to%20Stock%20Markets.pdf) | Fundamentals, Functioning, Intermediaries (15 Chapters) |
-| 2 | [**Technical Analysis**](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%202_Technical%20Analysis.pdf) | Patterns, Indicators, Theories (22 Chapters) |
-| 3 | [**Fundamental Analysis**](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%203_Fundamental%20Analysis.pdf) | Equity research, Financial statements, Ratios (16 Chapters) |
-| 4 | [**Futures Trading**](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%204_Futures%20Trading.pdf) | Derivatives, Margins, Leverage, Pricing (13 Chapters) |
-| 5 | [**Options Theory**](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%205_Options%20Theory%20for%20Professional%20Trading.pdf) | Professional Trading, Contracts (25 Chapters) |
-| 6 | [**Option Strategies**](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%206_Option%20Strategies.pdf) | Greeks, Risk-Return, Market Trends (14 Chapters) |
-| 7 | [**Markets & Taxation**](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%207_Markets%20%26%20Taxation.pdf) | Investing Taxation, Turnover, Filing ITR (7 Chapters) |
-| 8 | [**Currency & Commodity**](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%208_Currency%20and%20Commodity%20Futures.pdf) | Forexc, MCX, GSec (19 Chapters) |
-| 9 | [**Risk Management**](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%209_Risk%20Management%20%26%20Trading%20Psychology.pdf) | Psychology, Consistency, Profitability (16 Chapters) |
-| 10 | [**Trading Systems**](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%2010_Trading%20Systems.pdf) | Building Systems, Parameters, Analysis (16 Chapters) |
-| 11 | [**Personal Finance**](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%2011_Personal%20Finance.pdf) | Retirement, Mutual Funds, ETFs, Goals (30 Chapters) |
+<div align="center">
+
+[![Zerodha Varsity](https://img.shields.io/badge/Zerodha%20Varsity-17%20Modules-77b4f2?style=for-the-badge&logoColor=white)](https://zerodha.com/varsity/modules/)
+
+</div>
+
+| # | Module | Topics Covered | Varsity |
+|:-:|:---|:---|:-:|
+| 1 | [**Introduction to Stock Markets**](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%201_Introduction%20to%20Stock%20Markets.pdf) | Fundamentals, Functioning, Intermediaries (15 Chapters) | [Read](https://zerodha.com/varsity/module/introduction-to-stock-markets/) |
+| 2 | [**Technical Analysis**](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%202_Technical%20Analysis.pdf) | Patterns, Indicators, Theories (22 Chapters) | [Read](https://zerodha.com/varsity/module/technical-analysis/) |
+| 3 | [**Fundamental Analysis**](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%203_Fundamental%20Analysis.pdf) | Equity research, Financial statements, Ratios (16 Chapters) | [Read](https://zerodha.com/varsity/module/fundamental-analysis/) |
+| 4 | [**Futures Trading**](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%204_Futures%20Trading.pdf) | Derivatives, Margins, Leverage, Pricing (13 Chapters) | [Read](https://zerodha.com/varsity/module/futures-trading/) |
+| 5 | [**Options Theory**](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%205_Options%20Theory%20for%20Professional%20Trading.pdf) | Professional Trading, Contracts (25 Chapters) | [Read](https://zerodha.com/varsity/module/option-theory/) |
+| 6 | [**Option Strategies**](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%206_Option%20Strategies.pdf) | Greeks, Risk-Return, Market Trends (14 Chapters) | [Read](https://zerodha.com/varsity/module/option-strategies/) |
+| 7 | [**Markets & Taxation**](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%207_Markets%20%26%20Taxation.pdf) | Investing Taxation, Turnover, Filing ITR (7 Chapters) | [Read](https://zerodha.com/varsity/module/markets-and-taxation/) |
+| 8 | [**Currency & Commodity**](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%208_Currency%20and%20Commodity%20Futures.pdf) | Forexc, MCX, GSec (19 Chapters) | [Read](https://zerodha.com/varsity/module/commodities-currency-government-securities/) |
+| 9 | [**Risk Management**](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%209_Risk%20Management%20%26%20Trading%20Psychology.pdf) | Psychology, Consistency, Profitability (16 Chapters) | [Read](https://zerodha.com/varsity/module/risk-management/) |
+| 10 | [**Trading Systems**](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%2010_Trading%20Systems.pdf) | Building Systems, Parameters, Analysis (16 Chapters) | [Read](https://zerodha.com/varsity/module/trading-systems/) |
+| 11 | [**Personal Finance**](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%2011_Personal%20Finance.pdf) | Retirement, Mutual Funds, ETFs, Goals (30 Chapters) | [Read](https://zerodha.com/varsity/module/personalfinance/) |
+| 12 | **Innerworth - Mind over Markets** | Trading psychology, Discipline, Temperament (603 Chapters) | [Read](https://zerodha.com/varsity/module/innerworth/) |
+| 13 | [**Integrated Financial Modelling**](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%2013_Integrated%20Financial%20Modelling.pdf) | Assets, Reserves, Debt schedules, Cashflows, Valuation (18 Chapters) | [Read](https://zerodha.com/varsity/module/financial-modelling/) |
+| 14 | [**Personal Finance - Insurance**](Zerodha%20Varsity%20-%20Karthik%20Rangappa/Module%2014_Personal%20Finance%20-%20Insurance.pdf) | Life, Health, Coverage, Contingency planning (9 Chapters) | [Read](https://zerodha.com/varsity/module/insurance/) |
+| 15 | **Sector Analysis** | Sector characteristics, Market forces, Stock picking (17 Chapters) | [Read](https://zerodha.com/varsity/module/sector-analysis/) |
+| 16 | **Social Stock Exchanges (SSEs)** | Social enterprises, Donors, Listing framework (4 Chapters) | [Read](https://zerodha.com/varsity/module/social-stock-exchanges-sses/) |
+| 17 | **NPS: National Pension System** | Retirement, Contributions, Product suitability (9 Chapters) | [Read](https://zerodha.com/varsity/module/national-pension-scheme/) |
 
 ---
 
