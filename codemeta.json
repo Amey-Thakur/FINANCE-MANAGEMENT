@@ -1,0 +1,73 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "additionalType": "https://schema.org/LearningResource",
+    "name": "FINANCE-MANAGEMENT",
+    "description": "ILO8022: Finance Management [FM] | BE Semester VIII | Computer Engineering",
+    "identifier": "FINANCE-MANAGEMENT",
+    "license": "https://spdx.org/licenses/CC-BY-4.0.html",
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Amey",
+            "familyName": "Thakur",
+            "id": "https://orcid.org/0000-0001-5644-1575",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Mega",
+            "familyName": "Satish",
+            "id": "https://orcid.org/0000-0002-1844-9557",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        }
+    ],
+    "dateCreated": "2022-01-23",
+    "dateReleased": "2022-08-09",
+    "codeRepository": "https://github.com/Amey-Thakur/FINANCE-MANAGEMENT",
+    "isPartOf": "https://github.com/Amey-Thakur/COMPUTER-ENGINEERING",
+    "developmentStatus": "complete",
+    "applicationCategory": "Academic Course Archive",
+    "educationalLevel": "Undergraduate, Fourth Year, Semester VIII",
+    "keywords": [
+        "Computer Engineering",
+        "Computer Science",
+        "Dividends",
+        "Engineering",
+        "Equity",
+        "Finance",
+        "Finance Management",
+        "Personal Finance",
+        "Stock Market",
+        "Textbooks",
+        "Trading",
+        "University Of Mumbai",
+        "Varsity",
+        "Zerodha",
+        "Zerodha Varsity",
+        "ILO8022",
+        "FM",
+        "University of Mumbai",
+        "Mumbai University",
+        "Terna Engineering College",
+        "Navi Mumbai",
+        "India",
+        "B.E. Computer Engineering",
+        "BE Semester VIII",
+        "Semester VIII",
+        "Reference Books",
+        "Amey Thakur",
+        "amey",
+        "ameythakur",
+        "amey-thakur",
+        "ameyarc",
+        "Mega Satish",
+        "megasatish"
+    ]
+}

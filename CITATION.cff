@@ -11,3 +11,7 @@ title: "FINANCE-MANAGEMENT"
 version: 1.0.0
 date-released: 2022-08-09
 url: "https://github.com/Amey-Thakur/FINANCE-MANAGEMENT"
+identifiers:
+  - type: other
+    value: "2022-01-23"
+    description: "Date this repository was created on GitHub."

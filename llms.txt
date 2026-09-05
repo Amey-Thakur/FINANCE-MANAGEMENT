@@ -1,0 +1,39 @@
+# Finance Management
+
+> ILO8022: Finance Management [FM] | BE Semester VIII | Computer Engineering
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Fourth Year, Semester VIII
+Course code: ILO8022
+Licence: CC BY 4.0, attribution required
+Repository created: 23 January 2022
+Work dated: 9 August 2022
+
+## What is in this repository
+
+- IAT-1, 4 files
+- IAT-2, 4 files
+- MEGA NOTES, 10 files
+- Magic Institute of Excellence (MIE) - Vishal Bhojani, 15 files
+- Reference Books, 9 files
+- Semester Exam, 11 files
+- Submission Report, 1 file
+- THE WALL, 11 files
+- The Rupee Tales (Finance for Kids) - Karthik Rangappa Illustrations by Tarun Andrews, 5 files
+- Zerodha Varsity - Karthik Rangappa, 13 files
+- MU SEM VIII SYLLABUS.pdf
+
+## Subject terms
+
+computer-engineering, computer-science, dividends, engineering, equity,
+finance, finance-management, personal-finance, stock-market, textbooks,
+trading, university-of-mumbai, varsity, zerodha, zerodha-varsity
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/FINANCE-MANAGEMENT
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
